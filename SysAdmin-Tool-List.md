@@ -1,6 +1,10 @@
 ##Master List of Sys Admin Tools 
-###By Samer Sultan
-###https://www.sultansolutions.com
+
+
+Samer Sultan
+https://www.sultansolutions.com
+
+
 ----
 ###Malware Removal
 Tron Script:
