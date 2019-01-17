@@ -6,7 +6,7 @@ https://www.sultansolutions.com
 
 
 ----
-Malware Removal
+**Malware Removal**
 
 Tron Script:
 
@@ -16,7 +16,7 @@ Github: https://github.com/bmrf/tron/blob/master/README.md
 
 
 ----
-Windows Tools
+**Windows Tools**
 
 Fomrat Drive to Fat32 - GPT drives
 
