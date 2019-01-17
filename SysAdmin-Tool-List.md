@@ -18,6 +18,6 @@ Github: https://github.com/bmrf/tron/blob/master/README.md
 ----
 Windows Tools
 
-Fomrat Flash Drive - GPT drives
+Fomrat Drive to Fat32 - GPT drives
 
 URL:http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
