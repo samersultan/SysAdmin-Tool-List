@@ -20,6 +20,12 @@ Github: https://github.com/bmrf/tron/blob/master/README.md
 ----
 **Windows Tools**
 
+Ninite - Install and Update Many Programs at Once
+
+URL: https://www.ninite.com
+
+
+
 Fomrat Drive to Fat32 - GPT drives
 
 URL:http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
