@@ -27,7 +27,7 @@ URL: https://www.ninite.com
 --
 
 
-**GPT drives** - Fomrat Drive to Fat32 
+**Fat32 Format Tool** - Fomrat Drive to Fat32 
 
 URL:http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
 
