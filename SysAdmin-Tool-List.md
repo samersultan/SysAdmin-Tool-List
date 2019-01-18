@@ -1,4 +1,4 @@
-**Master List of Sys Admin Tools**
+## Master List of Sys Admin Tools
 
 
 Samer Sultan
@@ -7,7 +7,7 @@ https://www.sultansolutions.com
 
 
 ----
-#### Malware Removal
+### Malware Removal
 
 **Tron Script:**
 
@@ -18,7 +18,7 @@ Github: https://github.com/bmrf/tron/blob/master/README.md
 
 
 ----
-#### Windows Tools
+### Windows Tools
 
 **Ninite**  - Install and Update Many Programs at Once
 
@@ -33,7 +33,7 @@ URL:http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
 
 
 ----
-#### Online File Share / Storage
+### Online File Share / Storage
 
 **NoFile.io** - Secure fileshare (up to 10gig free)
 
