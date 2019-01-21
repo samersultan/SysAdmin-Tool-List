@@ -15,6 +15,12 @@ Reddit URL: https://www.reddit.com/r/TronScript/
 
 Github: https://github.com/bmrf/tron/blob/master/README.md
 
+--
+
+** Virus Total** - Online Virus Scan Tool 
+
+URL: https://www.virustotal.com
+
 
 
 ----
