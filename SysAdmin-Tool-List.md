@@ -3,7 +3,7 @@
 
 Samer Sultan
 
-<a href="https://www.sultansolutions.com" target="_blank">https://www.sultansolutions.com</a>
+https://www.sultansolutions.com
 
 
 ----
@@ -17,7 +17,7 @@ Github: https://github.com/bmrf/tron/blob/master/README.md
 
 --
 
-** Virus Total** - Online Virus Scan Tool 
+**Virus Total** - Online Virus Scan Tool 
 
 URL: https://www.virustotal.com
 
