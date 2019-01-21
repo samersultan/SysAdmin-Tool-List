@@ -17,7 +17,7 @@ Github: <a href="https://github.com/bmrf/tron/blob/master/README.md" target="bla
 
 --
 
-**Virus Total** - Online Virus Scan Tool 
+** Virus Total** - Online Virus Scan Tool 
 
 URL: <a href="https://www.virustotal.com" target="_blank">https://www.virustotal.com</a>
 
