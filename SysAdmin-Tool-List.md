@@ -11,16 +11,15 @@ https://www.sultansolutions.com
 
 **Tron Script:**
 
-Reddit URL: https://www.reddit.com/r/TronScript/
+Reddit URL: <a href="https://www.reddit.com/r/TronScript/" target="_blank">https://www.reddit.com/r/TronScript/</a>
 
-Github: https://github.com/bmrf/tron/blob/master/README.md
+Github: <a href="https://github.com/bmrf/tron/blob/master/README.md" target="blank">https://github.com/bmrf/tron/blob/master/README.md</a>
 
 --
 
 **Virus Total** - Online Virus Scan Tool 
 
-URL: https://www.virustotal.com
-
+URL: <a href="https://www.virustotal.com" target="_blank">https://www.virustotal.com</a>
 
 
 ----
@@ -28,14 +27,14 @@ URL: https://www.virustotal.com
 
 **Ninite**  - Install and Update Many Programs at Once
 
-URL: https://www.ninite.com
+URL: <a href="https://www.ninite.com" target="_blank">https://www.ninite.com</a>
 
 --
 
 
 **Fat32 Format Tool** - Fomrat Drive to Fat32 
 
-URL:http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
+URL:<a href="http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm" target="_blank">http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm</a>
 
 
 ----
@@ -43,4 +42,4 @@ URL:http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
 
 **NoFile.io** - Secure fileshare (up to 10gig free)
 
-URL: https://nofile.io/
+URL: <a href="https://nofile.io/" target="blank">https://nofile.io/</a>
