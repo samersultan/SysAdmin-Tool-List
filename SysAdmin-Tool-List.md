@@ -5,11 +5,25 @@ Samer Sultan
 
 https://www.sultansolutions.com
 
+----
+
+### Hardware 
+
+**OCCT** - Full hardware diagnostic and monitor (CPU / Mobo / RAM)
+
+URL: http://www.ocbase.com/index.php/download
+
+--
+
+**Core Temp** - Monitor system temperature
+
+URL: https://www.alcpu.com/CoreTemp/
+
 
 ----
 ### Malware Removal
 
-**Tron Script:**
+**Tron Script**
 
 Reddit URL: https://www.reddit.com/r/TronScript/
 
