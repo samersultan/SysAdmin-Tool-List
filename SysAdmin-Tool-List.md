@@ -60,8 +60,25 @@ URL:http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
 
 
 ----
+
 ### Online File Share / Storage
 
 **NoFile.io** - Secure fileshare (up to 10gig free)
 
 URL: https://nofile.io/
+
+----
+
+### Web / E-mail / Hosting Tools 
+
+**DSL Reports** - ISP Reports and Tools 
+
+URL: http://www.dslreports.com/ 
+
+--
+
+**MX Toolbox** - E-mail Monitoring and Testing
+
+URL: https://mxtoolbox.com/
+
+----
