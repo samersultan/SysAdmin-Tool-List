@@ -87,4 +87,10 @@ URL: https://mxtoolbox.com/
 
 URL: https://centralops.net
 
+--
+
+**FX Tools** - Secure Password Generator 
+
+URL: https://www.webfx.com/tools/new-password-generator/
+
 ----
