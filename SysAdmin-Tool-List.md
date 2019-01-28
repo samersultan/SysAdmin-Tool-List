@@ -56,7 +56,13 @@ URL: https://www.ninite.com
 
 **Fat32 Format Tool** - Fomrat Drive to Fat32 
 
-URL:http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
+URL: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
+
+--
+
+**Rufus** - Create bootable USB Drives
+
+URL: https://rufus.ie/
 
 
 ----
