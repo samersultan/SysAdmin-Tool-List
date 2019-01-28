@@ -107,4 +107,10 @@ URL: https://centralops.net
 
 URL: https://www.webfx.com/tools/new-password-generator/
 
+--
+
+**Dashlane Password Checker** - How Secure Is My Password?
+
+URL: https://howsecureismypassword.net/
+
 ----
