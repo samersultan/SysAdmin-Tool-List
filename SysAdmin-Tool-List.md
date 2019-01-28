@@ -56,7 +56,7 @@ URL: https://www.ninite.com
 --
 
 
-**Fat32 Format Tool** - Fomrat Drive to Fat32 
+**Fat32 Format Tool** - Format Drive to Fat32 
 
 URL: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
 
