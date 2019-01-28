@@ -38,6 +38,7 @@ URL: https://www.virustotal.com
 
 
 ----
+
 ### Scripting (Powershell / Linux)
 
 **SS64** - Command line reference – Database and OS scripting
@@ -45,6 +46,7 @@ URL: https://www.virustotal.com
 URL: https://ss64.com/
 
 ----
+
 ### Windows Tools
 
 **Ninite**  - Install and Update Many Programs at Once
