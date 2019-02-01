@@ -19,8 +19,8 @@ URL: http://www.ocbase.com/index.php/download
 
 URL: https://www.alcpu.com/CoreTemp/
 
+--
 
-----
 ## Malware Removal
 
 **Tron Script**
@@ -35,6 +35,7 @@ Github: https://github.com/bmrf/tron/blob/master/README.md
 
 URL: https://www.virustotal.com
 
+--
 
 ### Scripting (Powershell / Linux)
 
@@ -42,6 +43,7 @@ URL: https://www.virustotal.com
 
 URL: https://ss64.com/
 
+--
 
 ## Windows Tools
 
@@ -62,6 +64,7 @@ URL: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
 
 URL: https://rufus.ie/
 
+--
 
 ## Windows Administration
 
@@ -75,6 +78,7 @@ URL: https://getadmx.com/
 
 URL: https://batchpatch.com/
 
+--
 
 ## Online File Share / Storage
 
@@ -95,6 +99,7 @@ URL: https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
 
 URL: https://www.hirensbootcd.org/
 
+--
 
 ## Web / E-mail / Hosting Tools
 
@@ -120,6 +125,7 @@ URL: https://dnslytics.com/
 
 URL: https://centralops.net
 
+--
 
 ## Security Tools
 
@@ -139,6 +145,7 @@ URL: https://howsecureismypassword.net/
 
 URL: https://www.kali.org/
 
+--
 
 ## PowerShell Scripts
 
@@ -152,6 +159,7 @@ URL: https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1
 
 URL: https://github.com/samersultan/wsus-cleanup
 
+--
 
 ## Subreddits
 
@@ -165,6 +173,7 @@ URL: https://old.reddit.com/r/sysadmin/
 
 URL: https://old.reddit.com/r/PowerShell/
 
-----
+
+--
 
 
