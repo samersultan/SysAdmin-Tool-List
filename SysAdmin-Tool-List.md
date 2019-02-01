@@ -92,7 +92,13 @@ URL: https://nofile.io/
 
 ### ISO Boot Disks / PE Disks
 
-**Hiren Boot Disk** https://www.hirensbootcd.org/
+**YUMI Multi Boot** - Linux Multi Boot Disc
+
+URL: https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
+
+--
+
+**Hiren Boot Disk** - Dianostic Boot Disc https://www.hirensbootcd.org/
 
 URL: https://www.hirensbootcd.org/
 
