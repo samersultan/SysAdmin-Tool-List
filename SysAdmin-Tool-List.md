@@ -161,9 +161,15 @@ URL: https://github.com/samersultan/wsus-cleanup
 
 ### Subreddits
 
-**Sys Admin Subreddit** - Sub Reddit for System Administrators
+**Sys Admin Subreddit** - Most active subreddit for system / network admins
 
 URL: https://old.reddit.com/r/sysadmin/
+
+--
+
+**PowerShell Subreddit** - PowerShell scripting subreddit 
+
+URL: https://old.reddit.com/r/PowerShell/
 
 ----
 
