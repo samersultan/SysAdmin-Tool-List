@@ -7,7 +7,7 @@ https://www.sultansolutions.com
 
 ----
 
-### Hardware
+## Hardware
 
 **OCCT** - Full hardware diagnostic and monitor (CPU / Mobo / RAM)
 
@@ -21,7 +21,7 @@ URL: https://www.alcpu.com/CoreTemp/
 
 
 ----
-### Malware Removal
+## Malware Removal
 
 **Tron Script**
 
@@ -47,7 +47,7 @@ URL: https://ss64.com/
 
 ----
 
-### Windows Tools
+## Windows Tools
 
 **Ninite**  - Install and Update Many Programs at Once
 
@@ -68,7 +68,7 @@ URL: https://rufus.ie/
 
 ----
 
-### Windows Administration
+## Windows Administration
 
 **Group Policy Administrative Templates Catalog** - Group Policy Templates
 
@@ -82,7 +82,7 @@ URL: https://batchpatch.com/
 
 ----
 
-### Online File Share / Storage
+## Online File Share / Storage
 
 **NoFile.io** - Secure file share (up to 10gig free)
 
@@ -90,7 +90,7 @@ URL: https://nofile.io/
 
 ----
 
-### ISO Boot Disks / PE Disks
+## ISO Boot Disks / PE Disks
 
 **YUMI Multi Boot** - Linux Multi Boot Disc
 
@@ -104,7 +104,7 @@ URL: https://www.hirensbootcd.org/
 
 ----
 
-### Web / E-mail / Hosting Tools
+## Web / E-mail / Hosting Tools
 
 **DSL Reports** - ISP Reports and Tools
 
@@ -130,7 +130,7 @@ URL: https://centralops.net
 
 ----
 
-### Security Tools
+## Security Tools
 
 
 **FX Tools** - Secure Password Generator
@@ -151,7 +151,7 @@ URL: https://www.kali.org/
 
 ----
 
-### PowerShell Scripts
+## PowerShell Scripts
 
 **Windows 10 Decrapifier** - Clean up W10 PowerShell Script
 
@@ -165,7 +165,7 @@ URL: https://github.com/samersultan/wsus-cleanup
 
 ----
 
-### Subreddits
+## Subreddits
 
 **Sys Admin Subreddit** - Most active subreddit for system / network admins
 
