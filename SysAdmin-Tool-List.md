@@ -137,6 +137,12 @@ URL: https://www.webfx.com/tools/new-password-generator/
 
 URL: https://howsecureismypassword.net/
 
+--
+
+**Kali Linux** - Penetration Testing Linux Distro
+
+URL: https://www.kali.org/
+
 ----
 
 ### PowerShell Scripts
@@ -152,3 +158,4 @@ URL: https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1
 URL: https://github.com/samersultan/wsus-cleanup
 
 ----
+
