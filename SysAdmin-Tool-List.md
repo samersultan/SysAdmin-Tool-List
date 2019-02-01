@@ -159,3 +159,12 @@ URL: https://github.com/samersultan/wsus-cleanup
 
 ----
 
+### Subreddits
+
+**Sys Admin Subreddit** - Sub Reddit for System Administrators
+
+URL: https://old.reddit.com/r/sysadmin/
+
+----
+
+
