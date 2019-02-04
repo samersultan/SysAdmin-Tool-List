@@ -37,7 +37,7 @@ URL: https://www.virustotal.com
 
 --
 
-### Scripting (Powershell / Linux)
+## Scripting (Powershell / Linux)
 
 **SS64** - Command line reference – Database and OS scripting
 
