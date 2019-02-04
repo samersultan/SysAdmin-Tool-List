@@ -128,6 +128,16 @@ URL: https://centralops.net
 
 --
 
+## o365 Tools and Resources
+
+**GCITS o365 Knowledgeable** - Resource for o365 User Guides / Trouble Shooting
+
+URL: https://gcits.com/knowledge-base/
+
+--
+
+
+
 ## Web Tools 
 
 **Pinboard** - Bookmark management tool
