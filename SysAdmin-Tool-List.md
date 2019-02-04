@@ -102,7 +102,7 @@ URL: https://www.hirensbootcd.org/
 
 --
 
-## Web / E-mail / Hosting Tools
+## E-mail / Hosting Tools
 
 **DSL Reports** - ISP Reports and Tools
 
@@ -125,6 +125,14 @@ URL: https://dnslytics.com/
 **Central OPS** - Domain + E-mail Dossier / WHO IS / NS Lookup
 
 URL: https://centralops.net
+
+--
+
+## Web Tools 
+
+**Pinboard** - Bookmark management tool
+
+URL: https://pinboard.in/
 
 --
 
