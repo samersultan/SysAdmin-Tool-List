@@ -178,6 +178,12 @@ URL: https://www.kali.org/
 
 --
 
+**Hows MY SSL?** - Check how secure your TLS client is
+
+URL: https://www.howsmyssl.com/s/about.html
+
+--
+
 ## PowerShell Scripts
 
 **Windows 10 Decrapifier** - Clean up W10 PowerShell Script
