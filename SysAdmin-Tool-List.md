@@ -140,6 +140,12 @@ URL: https://centralops.net
 
 --
 
+**DKIMvalidator** - DomainKeys, DKIM, and SPF Validitay Test
+
+URL: http://dkimvalidator.com/
+
+--
+
 ## o365 Tools and Resources
 
 **GCITS o365 Knowledgeable** - Resource for o365 User Guides / Trouble Shooting
