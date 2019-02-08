@@ -80,6 +80,12 @@ URL: https://getadmx.com/
 
 --
 
+**Policy Analyzer** - Group Policy Tool 
+
+URL: https://blogs.technet.microsoft.com/secguide/2016/01/22/new-tool-policy-analyzer/
+
+--
+
 **BatchPatch** - Patch Windows Systems Remotely (Force WSUS Updates)
 
 URL: https://batchpatch.com/
