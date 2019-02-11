@@ -152,7 +152,7 @@ URL: https://kitterman.com/spf/validate.html
 
 --
 
-** DMARCIAN** - Tool for parsing DMARC reports
+**DMARCIAN** - Tool for parsing DMARC reports
 
 URL: https://dmarcian.com
 
