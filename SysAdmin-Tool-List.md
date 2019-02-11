@@ -146,6 +146,24 @@ URL: http://dkimvalidator.com/
 
 --
 
+**SPF Testing Tool** - Tool to help deploy SPF records to your domain
+
+URL: https://kitterman.com/spf/validate.html
+
+--
+
+** DMARCIAN** - Tool for parsing DMARC reports
+
+URL: https://dmarcian.com
+
+--
+
+**DMARC Deployment Tools** - Tools for creating DMARC records
+
+URL: https://dmarc.org/resources/deployment-tools/
+
+--
+
 ## o365 Tools and Resources
 
 **GCITS o365 Knowledgeable** - Resource for o365 User Guides / Trouble Shooting
