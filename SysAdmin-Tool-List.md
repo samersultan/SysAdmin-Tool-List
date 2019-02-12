@@ -92,6 +92,12 @@ URL: https://batchpatch.com/
 
 --
 
+**LAN Sweeper** - IT Asset Management Software That Finds & Manages All Assets Across Your Enterprise.
+
+URL: https://www.lansweeper.com/
+
+--
+
 ## Online File Share / Storage
 
 **NoFile.io** - Secure file share (up to 10gig free)
