@@ -98,6 +98,12 @@ URL: https://www.lansweeper.com/
 
 --
 
+**OneDrive Mapper Tool** - OneDrive mapped to drive letters 
+
+URL: https://www.lieben.nu/liebensraum/onedrivemapper/
+
+--
+
 ## Online File Share / Storage
 
 **NoFile.io** - Secure file share (up to 10gig free)
