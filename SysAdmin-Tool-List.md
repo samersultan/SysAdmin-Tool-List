@@ -176,6 +176,14 @@ URL: https://dmarc.org/resources/deployment-tools/
 
 --
 
+## Networking Tools 
+
+**Angry IPScanner** - Scans Addresses and Ports
+
+URL: https://angryip.org/
+
+--
+
 ## o365 Tools and Resources
 
 **GCITS o365 Knowledgeable** - Resource for o365 User Guides / Trouble Shooting
