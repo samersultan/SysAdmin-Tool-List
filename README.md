@@ -1,9 +1,9 @@
 # SysAdmin-Tool-List
-List of useful tools and software for system and network administrators. :sunglasses:
+ :sunglasses: List of useful tools and software for system and network administrators. :sunglasses:
 
 ----
 
-**Last update 02/15/2019**
+**Last update 02/16/2019**
 
 ----
 
