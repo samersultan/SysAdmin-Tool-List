@@ -1,5 +1,5 @@
 # SysAdmin-Tool-List
- :sunglasses: List of useful tools and software for system and network administrators. :sunglasses:
+List of useful tools and software for system and network administrators.
 
 ----
 
