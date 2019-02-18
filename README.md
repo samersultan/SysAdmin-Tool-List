@@ -11,7 +11,6 @@
 
 * 02/ 17 / 2019 - Add dexpot virtual desktop tool
 
---
 
 * 02 / 15 / 2019 - Added Networking Tools 
 
