@@ -5,14 +5,15 @@ List of useful tools and software for system and network administrators. Current
 
 ----
 
-**Last update 02/17/2019**
+**Last update 02/19/2019**
 
 ----
 
 ## Change Log
 
-* 02 / 17 / 2019 - Add dexpot virtual desktop tool
+* 02 / 19 / 2019 - WinSSHTerm added to Windows tools
 
+* 02 / 17 / 2019 - Add dexpot virtual desktop tool
 
 * 02 / 15 / 2019 - Added Networking Tools 
 
