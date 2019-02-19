@@ -261,6 +261,12 @@ URL: https://github.com/samersultan/wsus-cleanup
 
 --
 
+**Windows User Profile Cleanup** - Delete user profiles older than a specified number of days in Windows
+
+URL: https://gallery.technet.microsoft.com/scriptcenter/How-to-delete-user-d86ffd3c
+
+--
+
 ## VMWARE 
 
 **vCenter Converter** - Convert Physical Machine to Virtual 
