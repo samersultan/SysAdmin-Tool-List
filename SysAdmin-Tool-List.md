@@ -50,6 +50,19 @@ URL: https://ss64.com/
 URL: https://poshgui.com/
 
 --
+## Networking Tools 
+
+**Angry IPScanner** - Scans Addresses and Ports
+
+URL: https://angryip.org/
+
+--
+
+**TCPView** - Windows program that will show you detailed listings of all TCP and UDP endpoints
+
+URL: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
+
+--
 
 ## Windows Tools
 
@@ -189,13 +202,6 @@ URL: https://dmarc.org/resources/deployment-tools/
 
 --
 
-## Networking Tools 
-
-**Angry IPScanner** - Scans Addresses and Ports
-
-URL: https://angryip.org/
-
---
 
 ## o365 Tools and Resources
 
