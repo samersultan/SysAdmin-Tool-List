@@ -5,11 +5,13 @@ List of useful tools and software for system and network administrators. Current
 
 ----
 
-**Last update 02/19/2019**
+**Last update 02/21/2019**
 
 ----
 
 ## Change Log
+
+* 02 / 21 / 2019 - TCPView network tool added 
 
 * 02 / 19 / 2019 - WinSSHTerm added to Windows tools, User cleanup script added to PowerShell
 
