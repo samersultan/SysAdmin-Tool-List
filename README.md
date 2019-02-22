@@ -5,7 +5,7 @@ List of useful tools and software for system and network administrators. Current
 
 ----
 
-**Last update 02/21/2019**
+## Last updated 02/21/2019
 
 
 
