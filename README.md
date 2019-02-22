@@ -1,5 +1,5 @@
 # System + Network Administrator Tool and Resource List
-List of useful tools and software for system and network administrators. Currently a work in progress, I will be updating regularly. If you have any suggestions, please reach out to me on twitter https://twitter.com/sultansolutions
+List of useful tools / software / scripts / resources for system and network administrators. Currently a work in progress, I will be updating regularly. If you have any suggestions, please reach out to me on twitter https://twitter.com/sultansolutions
 
 
 ## Change Log
