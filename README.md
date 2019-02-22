@@ -1,4 +1,4 @@
-# SysAdmin-Tool-List
+# System / Network Administrator Tool and Resource List
 List of useful tools and software for system and network administrators. Currently a work in progress, I will be updating regularly. If you have any suggestions, please reach out to me on twitter https://twitter.com/sultansolutions
 
 
