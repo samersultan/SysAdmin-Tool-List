@@ -7,7 +7,7 @@ List of useful tools and software for system and network administrators. Current
 
 **Last update 02/21/2019**
 
-----
+
 
 ## Change Log
 
@@ -22,7 +22,13 @@ List of useful tools and software for system and network administrators. Current
 
 ----
 
-* 02 / 17 / 2019 - Add dexpot virtual desktop tool
+**02 / 17 / 2019**
 
-* 02 / 15 / 2019 - Added Networking Tools 
+* Add dexpot virtual desktop tool
+
+----
+
+**02 / 15 / 2019** 
+
+* Added Networking Tools 
 
