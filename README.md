@@ -2,7 +2,7 @@
 List of useful tools / software / scripts / resources for system and network administrators. Broken down into sub sections with corresponding links and descriptions. 
 
 
-Currently a work in progress, I will be updating regularly. If you have any suggestions, please reach out to me on twitter <a href="https://twitter.com/sultansolutions">@SultanSolutions</a>
+Currently a work in progress, I will be updating this list regularly. If you have any suggestions, please reach out to me on twitter <a href="https://twitter.com/sultansolutions">@SultanSolutions</a>
 
 
 ## Change Log
