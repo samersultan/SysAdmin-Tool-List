@@ -5,7 +5,8 @@ List of useful tools / software / scripts / resources for system and network adm
 Currently a work in progress, I will be updating this list regularly. If you have any suggestions, please reach out to me on twitter <a href="https://twitter.com/sultansolutions">@SultanSolutions</a>
 
 
-## Change Log
+**Change Log**
+----
 
 **02 / 21 / 2019** 
 
