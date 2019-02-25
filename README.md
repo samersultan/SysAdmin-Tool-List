@@ -6,7 +6,6 @@ Currently a work in progress, I will be updating this list regularly. If you hav
 
 
 **Change Log**
-----
 
 **02 / 21 / 2019** 
 
