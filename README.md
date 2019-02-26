@@ -2,7 +2,13 @@
 List of useful tools / software / scripts / resources for system and network administrators. Broken down into sub sections with corresponding links and descriptions. 
 
 
-Currently a work in progress, I will be updating this list regularly. If you have any suggestions, please reach out to me on twitter <a href="https://twitter.com/sultansolutions">@SultanSolutions</a>
+This resoruce / tool list is a work in progress, I will be updating it regularly (on a daily basis).  If you have any suggestions, please reach out to me on twitter <a href="https://twitter.com/sultansolutions">@SultanSolutions</a>
+
+
+**02 / 26 / 2019**
+
+* odrive multi cloud client sync tool 
+* Rearranged networking tools
 
 ----
 
