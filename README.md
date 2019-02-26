@@ -1,4 +1,4 @@
-# System + Network Administrator Tool and Resource List
+# System / Network Administrator Tool and Resource List
 List of useful tools / software / scripts / resources for system and network administrators. Broken down into sub sections with corresponding links and descriptions. 
 
 
