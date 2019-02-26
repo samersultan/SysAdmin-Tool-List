@@ -138,7 +138,7 @@ URL: https://nofile.io/
 
 --
 
-**Odrive** - Sync all cloud storage in one place
+**odrive** - Sync all cloud storage in one place
 
 URL: https://www.odrive.com/
 
