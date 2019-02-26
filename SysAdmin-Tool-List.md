@@ -50,6 +50,14 @@ URL: https://ss64.com/
 URL: https://poshgui.com/
 
 --
+
+**Dicio** - Runs powershell scripts targeting multiple hosts at once.
+
+URL: - https://github.com/Wrexthor/Dicio
+
+-- 
+
+
 ## Networking Tools 
 
 **Angry IPScanner** - Scans Addresses and Ports
