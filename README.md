@@ -7,7 +7,7 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 **02 / 26 / 2019**
 
-* Dicio PowerShelll tool 
+* Dicio PowerShell tool 
 * odrive multi cloud client sync tool 
 * Rearranged networking tools
 
