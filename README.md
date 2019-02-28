@@ -4,6 +4,16 @@ List of useful tools / software / scripts / resources for system and network adm
 
 This resoruce / tool list is a work in progress, I will be updating it regularly (on a daily basis).  If you have any suggestions, please reach out to me on twitter <a href="https://twitter.com/sultansolutions">@SultanSolutions</a>
 
+**Changelog**
+
+----
+
+**02 / 28 / 2019**
+
+* Added Self Hosted Section
+* Added BooKStack to Self Hosted Tools 
+
+----
 
 **02 / 26 / 2019**
 
