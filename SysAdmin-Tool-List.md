@@ -299,6 +299,12 @@ URL: https://www.bookstackapp.com/
 
 --
 
+**Docker** - Run applications as virtual containers 
+
+URL: https://www.docker.com/
+
+--
+
 **AMPPS** - Package Library of Self Hosted Apps 
 
 URL: https://www.ampps.com
