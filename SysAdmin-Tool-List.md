@@ -299,6 +299,12 @@ URL: https://www.bookstackapp.com/
 
 --
 
+**AMPPS** - Package Library of Self Hosted Apps 
+
+URL: https://www.ampps.com
+
+--
+
 ## VMWARE 
 
 **vCenter Converter** - Convert Physical Machine to Virtual 
