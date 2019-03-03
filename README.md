@@ -8,6 +8,8 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 **Changelog**
 
+--
+
 **03 / 01 / 2019** 
 
 * Docker added to self hosted
