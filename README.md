@@ -6,7 +6,7 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 ----
 
-**Changelog**
+### Changelog
 
 --
 
