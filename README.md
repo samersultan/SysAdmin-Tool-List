@@ -7,6 +7,11 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 ### Changelog
 
+**03 / 03 / 2019**
+
+* PowerShell o365 script collection added
+
+----
 
 **03 / 01 / 2019** 
 
