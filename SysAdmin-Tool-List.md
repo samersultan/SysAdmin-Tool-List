@@ -291,6 +291,12 @@ URL: https://gallery.technet.microsoft.com/scriptcenter/How-to-delete-user-d86ff
 
 --
 
+**o365 PowerShell Script Library** - o365 PowerShell script collection
+
+URL: https://github.com/Scine/Office365
+
+--
+
 ## Self Hosted 
 
 **BookStack** - Self hosted Wiki / Document Management  
