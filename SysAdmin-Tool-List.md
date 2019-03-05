@@ -37,27 +37,6 @@ URL: https://www.virustotal.com
 
 --
 
-## Scripting (Powershell / Linux)
-
-**SS64** - Command line reference – Database and OS scripting
-
-URL: https://ss64.com/
-
---
-
-**POSH GUI** - (Powershell GUI Designer) 
-
-URL: https://poshgui.com/
-
---
-
-**Dicio** - Runs powershell scripts targeting multiple hosts at once.
-
-URL: - https://github.com/Wrexthor/Dicio
-
--- 
-
-
 ## Networking Tools 
 
 **Angry IPScanner** - Scans Addresses and Ports
@@ -270,7 +249,25 @@ URL: https://www.kali.org/
 URL: https://www.howsmyssl.com/
 
 --
+## Scripting Resources (Powershell / Linux)
 
+**SS64** - Command line reference – Database and OS scripting
+
+URL: https://ss64.com/
+
+--
+
+**POSH GUI** - (Powershell GUI Designer) 
+
+URL: https://poshgui.com/
+
+--
+
+**Dicio** - Runs powershell scripts targeting multiple hosts at once.
+
+URL: - https://github.com/Wrexthor/Dicio
+
+-- 
 ## PowerShell Scripts
 
 **Windows 10 Decrapifier** - Clean up W10 PowerShell Script
