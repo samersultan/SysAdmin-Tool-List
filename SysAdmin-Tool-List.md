@@ -23,7 +23,7 @@ URL: https://www.alcpu.com/CoreTemp/
 
 ## Malware Removal
 
-**Tron Script**
+**Tron Script** - Script to remove malware / optimize windows systems 
 
 Reddit URL: https://www.reddit.com/r/TronScript/
 
