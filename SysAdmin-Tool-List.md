@@ -123,6 +123,12 @@ URL: http://www.cjwdev.co.uk/Software.html
 
 --
 
+**NirSoft** - Collection of small and useful freeware utilities for Admins
+
+URL: http://nirsoft.net/
+
+--
+
 ## Online File Share / Storage
 
 **NoFile.io** - Secure file share (up to 10gig free)
