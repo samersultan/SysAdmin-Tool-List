@@ -11,7 +11,7 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 * NirSoft admin tool directory added to windows admin tools
 * o365 Admin Center tool added to windows admin tools
-* Fixed formating
+* Guru3D Display Driver Uninstall Tool added to hardware 
 
 ----
 
