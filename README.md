@@ -11,7 +11,7 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 * NirSoft admin tool directory added
 * o365 Admin Center tool 
-* Fixed formating errors
+* Fixed formating
 
 ----
 
