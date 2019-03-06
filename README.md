@@ -7,6 +7,12 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 ### Changelog
 
+**03 / 06 / 2019**
+
+* RSAT Tools Added to windows admin tools
+
+----
+
 **03 / 05 / 2019**
 
 * NirSoft admin tool directory added to windows admin tools
