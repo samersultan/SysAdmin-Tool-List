@@ -10,6 +10,8 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 **03 / 06 / 2019**
 
 * RSAT Tools Added to windows admin tools
+* PowerShell Script Browser added
+* PowerShell Script Analyzer added 
 
 ----
 
