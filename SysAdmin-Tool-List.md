@@ -300,6 +300,19 @@ __
 URL: - https://github.com/Wrexthor/Dicio
 
 __ 
+
+**PowerShell Script Browser** - Search through library of TechNet PowerShell scripts
+
+URL: https://www.powershellgallery.com/packages/ScriptBrowser/1.3.1.0
+
+__
+
+**PowerShell  ISEScriptAnalyzerAddOn** - PowerShell Script Analyzer
+
+URL: https://www.powershellgallery.com/packages/ISEScriptAnalyzerAddOn/1.0
+
+__
+
 ## PowerShell Scripts
 
 **Windows 10 Decrapifier** - Clean up W10 PowerShell Script
