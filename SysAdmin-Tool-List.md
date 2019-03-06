@@ -23,6 +23,12 @@ URL: https://www.alcpu.com/CoreTemp/
 
 --
 
+**Guru3D Display Driver Uninstaller** - Clean removal of display drivers 
+
+URL: https://www.guru3d.com/files-details/display-driver-uninstaller-download,3.html
+
+--
+
 ## Malware Removal
 
 **Tron Script** - Script to remove malware / optimize windows systems 
