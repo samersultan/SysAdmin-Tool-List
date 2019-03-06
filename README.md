@@ -9,7 +9,7 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 **03 / 05 / 2019**
 
-* NirSoft admin tool directory added
+* NirSoft admin tool directory added to windows admin tools
 * o365 Admin Center tool 
 * Fixed formating
 
