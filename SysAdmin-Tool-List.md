@@ -305,8 +305,6 @@ __
 
 URL: https://www.powershellgallery.com/packages/ScriptBrowser/1.3.1.0
 
-**Code to install in PowerShell**
-
 
 ```
 Install-Module -Name Scriptbrowser
