@@ -2,7 +2,7 @@
 List of useful tools / software / scripts / resources for system and network administrators. Broken down into sub sections with corresponding links and descriptions. The idea behind this list is to share the tools I use on a daily basis, that make getting work done easier and more efficient.  
 
 
-This resoruce / tool list is a work in progress, I will be updating it regularly (every couple of days).  If you have any suggestions, please reach out to me on twitter <a href="https://twitter.com/sultansolutions">@SultanSolutions</a>
+This resoruce / tool list is a work in progress, I will be updating it regularly in the next coming months (every couple of days).  If you have any suggestions, please reach out to me on twitter <a href="https://twitter.com/sultansolutions">@SultanSolutions</a>
 
 
 ### Changelog
