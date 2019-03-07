@@ -319,6 +319,9 @@ Enable-ScriptBrowser
 
 ```
 
+__
+
+
 **PowerShell  ISEScriptAnalyzerAddOn** - PowerShell Script Analyzer
 
 URL: https://www.powershellgallery.com/packages/ISEScriptAnalyzerAddOn/1.0
@@ -330,6 +333,8 @@ Install-Module -Name ISEScriptAnalyzerAddOn
 Enable-ScriptAnalyzer
 
 ```
+
+__
 
 ## PowerShell Scripts
 
