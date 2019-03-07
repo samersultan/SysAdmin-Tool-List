@@ -15,14 +15,14 @@ https://www.sultansolutions.com
 
 URL: http://www.ocbase.com/index.php/download
 
-_________
+__
 
 
 **Core Temp** - Monitor system temperature
 
 URL: https://www.alcpu.com/CoreTemp/
 
-_________
+__
 
 
 
@@ -30,7 +30,7 @@ _________
 
 URL: https://www.guru3d.com/files-details/display-driver-uninstaller-download,3.html
 
-_________
+__
 
 
 
@@ -42,13 +42,13 @@ Reddit URL: https://www.reddit.com/r/TronScript/
 
 Github: https://github.com/bmrf/tron/blob/master/README.md
 
-_________
+__
 
 **Virus Total** - Online Virus Scan Tool
 
 URL: https://www.virustotal.com
 
-_________
+__
 
 ## Networking Tools 
 
@@ -56,13 +56,13 @@ _________
 
 URL: https://angryip.org/
 
-_________
+__
 
 **TCPView** - Windows program that will show you detailed listings of all TCP and UDP endpoints
 
 URL: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
 
-_________
+__
 
 ## Windows Tools
 
@@ -70,32 +70,32 @@ _________
 
 URL: https://www.ninite.com
 
-_________
+__
 
 
 **Fat32 Format Tool** - Format Drive to Fat32
 
 URL: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
 
-_________
+__
 
 **Rufus** - Create bootable USB Drives
 
 URL: https://rufus.ie/
 
-_________
+__
 
 **Dexpot** Virtual Desktops for Windows 
 
 URL: https://dexpot.de/
 
-_________
+__
 
 **WinSSHTerm** - A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv
 
 URL: https://winsshterm.blogspot.com/
 
-_________
+__
 
 
 ## Windows Administration
@@ -104,49 +104,49 @@ _________
 
 URL: https://getadmx.com/
 
-_________
+__
 
 **Policy Analyzer** - Group Policy Tool 
 
 URL: https://blogs.technet.microsoft.com/secguide/2016/01/22/new-tool-policy-analyzer/
 
-_________
+__
 
 **BatchPatch** - Patch Windows Systems Remotely (Force WSUS Updates)
 
 URL: https://batchpatch.com/
 
-_________
+__
 
 **LAN Sweeper** - IT Asset Management Software That Finds & Manages All Assets Across Your Enterprise.
 
 URL: https://www.lansweeper.com/
 
-_________
+__
 
 **OneDrive Mapper Tool** - OneDrive mapped to drive letters 
 
 URL: https://www.lieben.nu/liebensraum/onedrivemapper/
 
-_________
+__
 
 **CJWDEV** - Library of Windows Server Admin Software
 
 URL: http://www.cjwdev.co.uk/Software.html
 
-_________
+__
 
 **NirSoft** - Collection of small and useful freeware utilities for Admins
 
 URL: http://nirsoft.net/
 
-_________
+__
 
 **RSAT** - Remote Server Administration Tools for Windows 10 
 
 URL: https://www.microsoft.com/en-us/download/details.aspx?id=45520
 
-_________
+__
 
 ## Online File Share / Storage
 
@@ -154,19 +154,19 @@ _________
 
 URL: https://nofile.io/
 
-_________
+__
 
 **odrive** - Sync all cloud storage in one place
 
 URL: https://www.odrive.com/
 
-_________
+__
 
 **ownCloud** - OpenSource Cloud Collaboration Platform
 
 URL: https://owncloud.org/
 
-_________
+__
 
 ## ISO Boot Disks / PE Disks
 
@@ -174,13 +174,13 @@ _________
 
 URL: https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
 
-_________
+__
 
 **Hiren Boot Disk** - Diganostic Boot Disc https://www.hirensbootcd.org/
 
 URL: https://www.hirensbootcd.org/
 
-_________
+__
 
 ## E-mail / Hosting Tools
 
@@ -188,49 +188,49 @@ _________
 
 URL: http://www.dslreports.com/
 
-_________
+__
 
 **MX Toolbox** - E-mail Monitoring and Testing
 
 URL: https://mxtoolbox.com/
 
-_________
+__
 
 **DNSlytics** - DNS Search and Analytics Tool
 
 URL: https://dnslytics.com/
 
-_________
+__
 
 **Central OPS** - Domain + E-mail Dossier / WHO IS / NS Lookup
 
 URL: https://centralops.net
 
-_________
+__
 
 **DKIMvalidator** - DomainKeys, DKIM, and SPF Validitay Test
 
 URL: http://dkimvalidator.com/
 
-_________
+__
 
 **SPF Testing Tool** - Tool to help deploy SPF records to your domain
 
 URL: https://kitterman.com/spf/validate.html
 
-_________
+__
 
 **DMARCIAN** - Tool for parsing DMARC reports
 
 URL: https://dmarcian.com
 
-_________
+__
 
 **DMARC Deployment Tools** - Tools for creating DMARC records
 
 URL: https://dmarc.org/resources/deployment-tools/
 
-_________
+__
 
 
 ## o365 Tools and Resources
@@ -239,13 +239,13 @@ _________
 
 URL: https://gcits.com/knowledge-base/
 
-_________
+__
 
 **o365 Admin Center Tool** - Simple desktop UI for o365 managment 
 
 URL: https://github.com/bwya77/O365-Admin-Center
 
-_________
+__
 
 ## Web Tools 
 
@@ -253,13 +253,13 @@ _________
 
 URL: https://pinboard.in/
 
-_________
+__
 
 **Draw.io** - Online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 
 URL: https://www.draw.io/
 
-_________
+__
 
 ## Security Tools
 
@@ -267,44 +267,44 @@ _________
 
 URL: https://www.webfx.com/tools/new-password-generator/
 
-_________
+__
 
 **Dashlane Password Checker** - How Secure Is My Password?
 
 URL: https://howsecureismypassword.net/
 
-_________
+__
 
 **Kali Linux** - Penetration Testing Linux Distro
 
 URL: https://www.kali.org/
 
-_________
+__
 
 **Hows MY SSL?** - Check how secure your TLS client is
 
 URL: https://www.howsmyssl.com/
 
-_________
+__
 ## Scripting Resources (Powershell / Linux)
 
 **SS64** - Command line reference – Database and OS scripting
 
 URL: https://ss64.com/
 
-_________
+__
 
 **POSH GUI** - (Powershell GUI Designer) 
 
 URL: https://poshgui.com/
 
-_________
+__
 
 **Dicio** - Runs powershell scripts targeting multiple hosts at once.
 
 URL: - https://github.com/Wrexthor/Dicio
 
-_________
+__
 
 **PowerShell Script Browser** - Search through library of TechNet PowerShell scripts
 
@@ -317,7 +317,7 @@ Install-Module -Name Scriptbrowser
 
 Enable-ScriptBrowser
 
-```_________
+```__
 
 **PowerShell  ISEScriptAnalyzerAddOn** - PowerShell Script Analyzer
 
@@ -329,7 +329,7 @@ Install-Module -Name ISEScriptAnalyzerAddOn
 
 Enable-ScriptAnalyzer
 
-```_________
+```__
 
 ## PowerShell Scripts
 
@@ -337,25 +337,25 @@ Enable-ScriptAnalyzer
 
 URL: https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1809
 
-_________
+__
 
 **WSUS Clean Up Script** - Clean up WSUS Updates
 
 URL: https://github.com/samersultan/wsus-cleanup
 
-_________
+__
 
 **Windows User Profile Cleanup** - Delete user profiles older than a specified number of days in Windows
 
 URL: https://gallery.technet.microsoft.com/scriptcenter/How-to-delete-user-d86ffd3c
 
-_________
+__
 
 **o365 PowerShell Script Library** - o365 PowerShell script collection
 
 URL: https://github.com/Scine/Office365
 
-_________
+__
 
 ## Self Hosted 
 
@@ -363,19 +363,19 @@ _________
 
 URL: https://www.bookstackapp.com/
 
-_________
+__
 
 **Docker** - Run applications as virtual containers 
 
 URL: https://www.docker.com/
 
-_________
+__
 
 **AMPPS** - Package Library of Self Hosted Apps 
 
 URL: https://www.ampps.com
 
-_________
+__
 
 ## VMWARE 
 
@@ -383,7 +383,7 @@ _________
 
 URL: https://www.vmware.com/products/converter.html
 
-_________
+__
 
 ## Subreddits
 
@@ -391,13 +391,13 @@ _________
 
 URL: https://old.reddit.com/r/sysadmin/
 
-_________
+__
 
 **PowerShell Subreddit** - PowerShell scripting subreddit
 
 URL: https://old.reddit.com/r/PowerShell/
 
 
-_________
+__
 
 
