@@ -317,7 +317,7 @@ Install-Module -Name Scriptbrowser
 
 Enable-ScriptBrowser
 
-```__
+```
 
 **PowerShell  ISEScriptAnalyzerAddOn** - PowerShell Script Analyzer
 
@@ -329,7 +329,7 @@ Install-Module -Name ISEScriptAnalyzerAddOn
 
 Enable-ScriptAnalyzer
 
-```__
+```
 
 ## PowerShell Scripts
 
