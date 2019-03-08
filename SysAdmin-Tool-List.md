@@ -1,6 +1,5 @@
 # System / Network Administrator Tool List
 
-<hr width="400" style="border: 2px dashed #C0C0C0" color="#FFFFFF" size="6">
 
 
 ### Samer Sultan
@@ -17,7 +16,7 @@ https://www.sultansolutions.com
 
 URL: http://www.ocbase.com/index.php/download
 
-<hr>
+..
 
 **Core Temp** - Monitor system temperature
 
