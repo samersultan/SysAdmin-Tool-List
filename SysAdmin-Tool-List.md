@@ -37,9 +37,7 @@ URL: https://www.guru3d.com/files-details/display-driver-uninstaller-download,3.
 
 **Tron Script** - Script to remove malware / optimize windows systems 
 
-Reddit URL: https://www.reddit.com/r/TronScript/
-
-Github: https://github.com/bmrf/tron/blob/master/README.md
+URL: https://www.reddit.com/r/TronScript/
 
 &nbsp;
 &nbsp;
