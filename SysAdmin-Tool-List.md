@@ -1,52 +1,5 @@
 # System / Network Administrator Tool List
 
-
-
-### Samer Sultan
-
-https://www.sultansolutions.com
-
-<a href="https://twitter.com/sultansolutions">@SultanSolutions</a>
-
-
-
-## Hardware
-
-**OCCT** - Full hardware diagnostic and monitor (CPU / Mobo / RAM)
-
-URL: http://www.ocbase.com/index.php/download
-
-&nbsp;
-&nbsp;
-
-**Core Temp** - Monitor system temperature
-
-URL: https://www.alcpu.com/CoreTemp/
-
-&nbsp;
-&nbsp;
-
-
-**Guru3D Display Driver Uninstaller** - Clean removal of display drivers 
-
-URL: https://www.guru3d.com/files-details/display-driver-uninstaller-download,3.html
-
-&nbsp;
-&nbsp;
-
-
-## Malware Removal
-
-**Tron Script** - Script to remove malware / optimize windows systems 
-
-Reddit URL: https://www.reddit.com/r/TronScript/
-
-Github: https://github.com/bmrf/tron/blob/master/README.md
-
-# System / Network Administrator Tool List
-
-
-
 ### Samer Sultan
 
 https://www.sultansolutions.com
