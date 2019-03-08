@@ -16,7 +16,6 @@ https://www.sultansolutions.com
 
 URL: http://www.ocbase.com/index.php/download
 
-.....
 
 **Core Temp** - Monitor system temperature
 
