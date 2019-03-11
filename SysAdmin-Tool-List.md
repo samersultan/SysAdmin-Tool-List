@@ -440,7 +440,7 @@ URL: https://www.vmware.com/products/converter.html
 
 ## Subreddits
 
-**Sys Admin Subreddit** - Most active subreddit for system / network admins
+**SysAdmin Subreddit** - Most active subreddit for system / network admins
 
 URL: https://old.reddit.com/r/sysadmin/
 
