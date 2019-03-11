@@ -301,6 +301,13 @@ URL: https://www.webfx.com/tools/new-password-generator/
 &nbsp;
 &nbsp;
 
+**have i been pwned?** - Find Out Whether Your Email Is Leaked In Past Hack Attacks
+
+URL: https://haveibeenpwned.com/
+
+&nbsp;
+&nbsp;
+
 **Dashlane Password Checker** - How Secure Is My Password?
 
 URL: https://howsecureismypassword.net/
