@@ -7,6 +7,9 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 ### Changelog
 
+**03 / 19 / 2019** 
+* Added WireShark to network tools
+
 **03 / 06 / 2019**
 
 * RSAT Tools Added to windows admin tools
