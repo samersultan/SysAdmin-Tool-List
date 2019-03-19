@@ -65,6 +65,13 @@ URL: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
 &nbsp;
 &nbsp;
 
+**WireShark** - Network Protocol Analyzer
+
+URL: https://www.wireshark.org/
+
+&nbsp;
+&nbsp;
+
 ## Windows Tools
 
 **Ninite**  - Install and Update Many Programs at Once
