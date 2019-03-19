@@ -9,6 +9,7 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 **03 / 19 / 2019** 
 * Added WireShark to network tools
+* PDQ Deploy added to Windows Administration 
 
 **03 / 06 / 2019**
 
