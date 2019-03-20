@@ -176,7 +176,7 @@ URL: https://www.pdq.com/pdq-deploy/
 &nbsp;
 &nbsp;
 
-**PDQ Inventory** - Systems management tool that scans Windows computers to collect hardware, software, and Windows configuration data
+**PDQ Inventory** - Tool that scans Windows computers to collect hardware, software, and Windows configuration data
 
 URL: https://www.pdq.com/pdq-inventory/
 
