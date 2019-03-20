@@ -430,6 +430,12 @@ URL: https://eightwone.com/2015/08/31/connecting-to-office-365exchange/
 &nbsp;
 &nbsp;
 
+**o365 PowerShell Connect w/ MFA** - Connect to o365 / Azure AD with MFA enabled
+
+URL: https://msunified.net/2018/02/01/how-to-connect-to-exchange-online-powershell-via-ise-with-mfa-the-correct-way/
+
+&nbsp;
+&nbsp;
 
 **o365 PowerShell Script Library** - o365 PowerShell script collection
 
