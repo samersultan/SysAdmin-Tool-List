@@ -215,7 +215,7 @@ URL: https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
 &nbsp;
 &nbsp;
 
-**Hiren Boot Disk** - Diganostic Boot Disc https://www.hirensbootcd.org/
+**Hiren Boot Disk** - Diganostic Boot Disc
 
 URL: https://www.hirensbootcd.org/
 
