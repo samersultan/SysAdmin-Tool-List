@@ -290,6 +290,8 @@ URL: https://github.com/bwya77/O365-Admin-Center
 &nbsp;
 &nbsp;
 
+
+
 ## Web Tools 
 
 **Pinboard** - Bookmark management tool
@@ -342,6 +344,7 @@ URL: https://www.howsmyssl.com/
 
 &nbsp;
 &nbsp;
+
 ## Scripting Resources (Powershell / Linux)
 
 **SS64** - Command line reference – Database and OS scripting
@@ -419,6 +422,14 @@ URL: https://gallery.technet.microsoft.com/scriptcenter/How-to-delete-user-d86ff
 
 &nbsp;
 &nbsp;
+
+**o365 PowerShell Connect** -Connect to all o365 service via PowerShell
+
+URL: https://eightwone.com/2015/08/31/connecting-to-office-365exchange/
+
+&nbsp;
+&nbsp;
+
 
 **o365 PowerShell Script Library** - o365 PowerShell script collection
 
