@@ -12,14 +12,14 @@ https://www.sultansolutions.com
 
 **OCCT** - Full hardware diagnostic and monitor (CPU / Mobo / RAM)
 
-URL: http://www.ocbase.com/index.php/download
+http://www.ocbase.com/index.php/download
 
 &nbsp;
 &nbsp;
 
 **Core Temp** - Monitor system temperature
 
-URL: https://www.alcpu.com/CoreTemp/
+https://www.alcpu.com/CoreTemp/
 
 &nbsp;
 &nbsp;
@@ -27,7 +27,7 @@ URL: https://www.alcpu.com/CoreTemp/
 
 **Guru3D Display Driver Uninstaller** - Clean removal of display drivers 
 
-URL: https://www.guru3d.com/files-details/display-driver-uninstaller-download,3.html
+https://www.guru3d.com/files-details/display-driver-uninstaller-download,3.html
 
 &nbsp;
 &nbsp;
@@ -37,14 +37,14 @@ URL: https://www.guru3d.com/files-details/display-driver-uninstaller-download,3.
 
 **Tron Script** - Script to remove malware / optimize windows systems 
 
-URL: https://www.reddit.com/r/TronScript/
+https://www.reddit.com/r/TronScript/
 
 &nbsp;
 &nbsp;
 
 **Virus Total** - Online Virus Scan Tool
 
-URL: https://www.virustotal.com
+https://www.virustotal.com
 
 &nbsp;
 &nbsp;
@@ -53,21 +53,21 @@ URL: https://www.virustotal.com
 
 **Angry IPScanner** - Scans Addresses and Ports
 
-URL: https://angryip.org/
+https://angryip.org/
 
 &nbsp;
 &nbsp;
 
 **TCPView** - Windows program that will show you detailed listings of all TCP and UDP endpoints
 
-URL: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
+https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
 
 &nbsp;
 &nbsp;
 
 **WireShark** - Network Protocol Analyzer
 
-URL: https://www.wireshark.org/
+https://www.wireshark.org/
 
 &nbsp;
 &nbsp;
@@ -76,7 +76,7 @@ URL: https://www.wireshark.org/
 
 **Ninite**  - Install and Update Many Programs at Once
 
-URL: https://www.ninite.com
+https://www.ninite.com
 
 &nbsp;
 &nbsp;
@@ -84,28 +84,28 @@ URL: https://www.ninite.com
 
 **Fat32 Format Tool** - Format Drive to Fat32
 
-URL: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
+http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
 
 &nbsp;
 &nbsp;
 
 **Rufus** - Create bootable USB Drives
 
-URL: https://rufus.ie/
+https://rufus.ie/
 
 &nbsp;
 &nbsp;
 
 **Dexpot** Virtual Desktops for Windows 
 
-URL: https://dexpot.de/
+https://dexpot.de/
 
 &nbsp;
 &nbsp;
 
 **WinSSHTerm** - A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv
 
-URL: https://winsshterm.blogspot.com/
+https://winsshterm.blogspot.com/
 
 &nbsp;
 &nbsp;
@@ -115,70 +115,70 @@ URL: https://winsshterm.blogspot.com/
 
 **Group Policy Administrative Templates Catalog** - Group Policy Templates
 
-URL: https://getadmx.com/
+https://getadmx.com/
 
 &nbsp;
 &nbsp;
 
 **Policy Analyzer** - Group Policy Tool 
 
-URL: https://blogs.technet.microsoft.com/secguide/2016/01/22/new-tool-policy-analyzer/
+https://blogs.technet.microsoft.com/secguide/2016/01/22/new-tool-policy-analyzer/
 
 &nbsp;
 &nbsp;
 
 **BatchPatch** - Patch Windows Systems Remotely (Force WSUS Updates)
 
-URL: https://batchpatch.com/
+https://batchpatch.com/
 
 &nbsp;
 &nbsp;
 
 **LAN Sweeper** - IT Asset Management Software That Finds & Manages All Assets Across Your Enterprise.
 
-URL: https://www.lansweeper.com/
+https://www.lansweeper.com/
 
 &nbsp;
 &nbsp;
 
 **OneDrive Mapper Tool** - OneDrive mapped to drive letters 
 
-URL: https://www.lieben.nu/liebensraum/onedrivemapper/
+https://www.lieben.nu/liebensraum/onedrivemapper/
 
 &nbsp;
 &nbsp;
 
 **CJWDEV** - Library of Windows Server Admin Software
 
-URL: http://www.cjwdev.co.uk/Software.html
+http://www.cjwdev.co.uk/Software.html
 
 &nbsp;
 &nbsp;
 
 **NirSoft** - Collection of small and useful freeware utilities for Admins
 
-URL: http://nirsoft.net/
+http://nirsoft.net/
 
 &nbsp;
 &nbsp;
 
 **RSAT** - Remote Server Administration Tools for Windows 10 
 
-URL: https://www.microsoft.com/en-us/download/details.aspx?id=45520
+https://www.microsoft.com/en-us/download/details.aspx?id=45520
 
 &nbsp;
 &nbsp;
 
 **PDQ Deploy** - Easily deploy software remotely  
 
-URL: https://www.pdq.com/pdq-deploy/
+https://www.pdq.com/pdq-deploy/
 
 &nbsp;
 &nbsp;
 
 **PDQ Inventory** - Tool that scans Windows computers to collect hardware, software, and Windows configuration data
 
-URL: https://www.pdq.com/pdq-inventory/
+https://www.pdq.com/pdq-inventory/
 
 &nbsp;
 &nbsp;
@@ -187,21 +187,21 @@ URL: https://www.pdq.com/pdq-inventory/
 
 **NoFile.io** - Secure file share (up to 10gig free)
 
-URL: https://nofile.io/
+https://nofile.io/
 
 &nbsp;
 &nbsp;
 
 **odrive** - Sync all cloud storage in one place
 
-URL: https://www.odrive.com/
+https://www.odrive.com/
 
 &nbsp;
 &nbsp;
 
 **ownCloud** - OpenSource Cloud Collaboration Platform
 
-URL: https://owncloud.org/
+https://owncloud.org/
 
 &nbsp;
 &nbsp;
@@ -210,14 +210,14 @@ URL: https://owncloud.org/
 
 **YUMI Multi Boot** - Linux Multi Boot Disc
 
-URL: https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
+https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
 
 &nbsp;
 &nbsp;
 
 **Hiren Boot Disk** - Diganostic Boot Disc
 
-URL: https://www.hirensbootcd.org/
+https://www.hirensbootcd.org/
 
 &nbsp;
 &nbsp;
@@ -226,56 +226,56 @@ URL: https://www.hirensbootcd.org/
 
 **DSL Reports** - ISP Reports and Tools
 
-URL: http://www.dslreports.com/
+http://www.dslreports.com/
 
 &nbsp;
 &nbsp;
 
 **MX Toolbox** - E-mail Monitoring and Testing
 
-URL: https://mxtoolbox.com/
+https://mxtoolbox.com/
 
 &nbsp;
 &nbsp;
 
 **DNSlytics** - DNS Search and Analytics Tool
 
-URL: https://dnslytics.com/
+https://dnslytics.com/
 
 &nbsp;
 &nbsp;
 
 **Central OPS** - Domain + E-mail Dossier / WHO IS / NS Lookup
 
-URL: https://centralops.net
+https://centralops.net
 
 &nbsp;
 &nbsp;
 
 **DKIMvalidator** - DomainKeys, DKIM, and SPF Validitay Test
 
-URL: http://dkimvalidator.com/
+http://dkimvalidator.com/
 
 &nbsp;
 &nbsp;
 
 **SPF Testing Tool** - Tool to help deploy SPF records to your domain
 
-URL: https://kitterman.com/spf/validate.html
+https://kitterman.com/spf/validate.html
 
 &nbsp;
 &nbsp;
 
 **DMARCIAN** - Tool for parsing DMARC reports
 
-URL: https://dmarcian.com
+https://dmarcian.com
 
 &nbsp;
 &nbsp;
 
 **DMARC Deployment Tools** - Tools for creating DMARC records
 
-URL: https://dmarc.org/resources/deployment-tools/
+https://dmarc.org/resources/deployment-tools/
 
 &nbsp;
 &nbsp;
@@ -285,14 +285,14 @@ URL: https://dmarc.org/resources/deployment-tools/
 
 **GCITS o365 Knowledgeable** - Resource for o365 User Guides / Trouble Shooting
 
-URL: https://gcits.com/knowledge-base/
+https://gcits.com/knowledge-base/
 
 &nbsp;
 &nbsp;
 
 **o365 Admin Center Tool** - Simple desktop UI for o365 managment 
 
-URL: https://github.com/bwya77/O365-Admin-Center
+https://github.com/bwya77/O365-Admin-Center
 
 &nbsp;
 &nbsp;
@@ -303,14 +303,14 @@ URL: https://github.com/bwya77/O365-Admin-Center
 
 **Pinboard** - Bookmark management tool
 
-URL: https://pinboard.in/
+https://pinboard.in/
 
 &nbsp;
 &nbsp;
 
 **Draw.io** - Online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 
-URL: https://www.draw.io/
+https://www.draw.io/
 
 &nbsp;
 &nbsp;
@@ -319,35 +319,35 @@ URL: https://www.draw.io/
 
 **FX Tools** - Secure Password Generator
 
-URL: https://www.webfx.com/tools/new-password-generator/
+https://www.webfx.com/tools/new-password-generator/
 
 &nbsp;
 &nbsp;
 
 **have i been pwned?** - Find Out Whether Your Email Is Leaked In Past Hack Attacks
 
-URL: https://haveibeenpwned.com/
+https://haveibeenpwned.com/
 
 &nbsp;
 &nbsp;
 
 **Dashlane Password Checker** - How Secure Is My Password?
 
-URL: https://howsecureismypassword.net/
+https://howsecureismypassword.net/
 
 &nbsp;
 &nbsp;
 
 **Kali Linux** - Penetration Testing Linux Distro
 
-URL: https://www.kali.org/
+https://www.kali.org/
 
 &nbsp;
 &nbsp;
 
 **Hows MY SSL?** - Check how secure your TLS client is
 
-URL: https://www.howsmyssl.com/
+https://www.howsmyssl.com/
 
 &nbsp;
 &nbsp;
@@ -356,28 +356,28 @@ URL: https://www.howsmyssl.com/
 
 **SS64** - Command line reference – Database and OS scripting
 
-URL: https://ss64.com/
+https://ss64.com/
 
 &nbsp;
 &nbsp;
 
 **POSH GUI** - (Powershell GUI Designer) 
 
-URL: https://poshgui.com/
+https://poshgui.com/
 
 &nbsp;
 &nbsp;
 
 **Dicio** - Runs powershell scripts targeting multiple hosts at once.
 
-URL: - https://github.com/Wrexthor/Dicio
+- https://github.com/Wrexthor/Dicio
 
 &nbsp;
 &nbsp;
 
 **PowerShell Script Browser** - Search through library of TechNet PowerShell scripts
 
-URL: https://www.powershellgallery.com/packages/ScriptBrowser/1.3.1.0
+https://www.powershellgallery.com/packages/ScriptBrowser/1.3.1.0
 
 
 ```
@@ -394,7 +394,7 @@ Enable-ScriptBrowser
 
 **PowerShell  ISEScriptAnalyzerAddOn** - PowerShell Script Analyzer
 
-URL: https://www.powershellgallery.com/packages/ISEScriptAnalyzerAddOn/1.0
+https://www.powershellgallery.com/packages/ISEScriptAnalyzerAddOn/1.0
 
 ```
 Install-Module -Name ISEScriptAnalyzerAddOn
@@ -411,42 +411,42 @@ Enable-ScriptAnalyzer
 
 **Windows 10 Decrapifier** - Clean up W10 PowerShell Script
 
-URL: https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1809
+https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1809
 
 &nbsp;
 &nbsp;
 
 **WSUS Clean Up Script** - Clean up WSUS Updates
 
-URL: https://github.com/samersultan/wsus-cleanup
+https://github.com/samersultan/wsus-cleanup
 
 &nbsp;
 &nbsp;
 
 **Windows User Profile Cleanup** - Delete user profiles older than a specified number of days in Windows
 
-URL: https://gallery.technet.microsoft.com/scriptcenter/How-to-delete-user-d86ffd3c
+https://gallery.technet.microsoft.com/scriptcenter/How-to-delete-user-d86ffd3c
 
 &nbsp;
 &nbsp;
 
 **o365 PowerShell Connect** -Connect to all o365 service via PowerShell
 
-URL: https://eightwone.com/2015/08/31/connecting-to-office-365exchange/
+https://eightwone.com/2015/08/31/connecting-to-office-365exchange/
 
 &nbsp;
 &nbsp;
 
 **o365 PowerShell Connect w/ MFA** - Connect to o365 / Azure AD with MFA enabled
 
-URL: https://github.com/samersultan/o365-powershell-connect-MFA/blob/master/o365-connect.md
+https://github.com/samersultan/o365-powershell-connect-MFA/blob/master/o365-connect.md
 
 &nbsp;
 &nbsp;
 
 **o365 PowerShell Script Library** - o365 PowerShell script collection
 
-URL: https://github.com/Scine/Office365
+https://github.com/Scine/Office365
 
 &nbsp;
 &nbsp;
@@ -455,21 +455,21 @@ URL: https://github.com/Scine/Office365
 
 **BookStack** - Self hosted Wiki / Document Management  
 
-URL: https://www.bookstackapp.com/
+https://www.bookstackapp.com/
 
 &nbsp;
 &nbsp;
 
 **Docker** - Run applications as virtual containers 
 
-URL: https://www.docker.com/
+https://www.docker.com/
 
 &nbsp;
 &nbsp;
 
 **AMPPS** - Package Library of Self Hosted Apps 
 
-URL: https://www.ampps.com
+https://www.ampps.com
 
 &nbsp;
 &nbsp;
@@ -478,7 +478,7 @@ URL: https://www.ampps.com
 
 **vCenter Converter** - Convert Physical Machine to Virtual 
 
-URL: https://www.vmware.com/products/converter.html
+https://www.vmware.com/products/converter.html
 
 &nbsp;
 &nbsp;
@@ -487,14 +487,14 @@ URL: https://www.vmware.com/products/converter.html
 
 **SysAdmin Subreddit** - Most active subreddit for system / network admins
 
-URL: https://old.reddit.com/r/sysadmin/
+https://old.reddit.com/r/sysadmin/
 
 &nbsp;
 &nbsp;
 
 **PowerShell Subreddit** - PowerShell scripting subreddit
 
-URL: https://old.reddit.com/r/PowerShell/
+https://old.reddit.com/r/PowerShell/
 
 
 &nbsp;
