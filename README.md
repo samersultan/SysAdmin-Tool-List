@@ -9,7 +9,7 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 **03 / 19 / 2019** 
 
-* Added o365 MFA PowerShell scripts
+* o365 MFA PowerShell scripts
 * Added WireShark to network tools
 * PDQ Deploy added to Windows Administration 
 
