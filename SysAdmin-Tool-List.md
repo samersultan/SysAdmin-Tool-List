@@ -380,7 +380,7 @@ https://poshgui.com/
 https://www.powershellgallery.com/packages/ScriptBrowser/1.3.1.0
 
 
-```
+```powershell
 Install-Module -Name Scriptbrowser
 
 
@@ -396,7 +396,7 @@ Enable-ScriptBrowser
 
 https://www.powershellgallery.com/packages/ISEScriptAnalyzerAddOn/1.0
 
-```
+```powershell
 Install-Module -Name ISEScriptAnalyzerAddOn
 
 
