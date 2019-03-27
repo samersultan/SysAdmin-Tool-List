@@ -96,7 +96,7 @@ https://rufus.ie/
 &nbsp;
 &nbsp;
 
-**Dexpot** Virtual Desktops for Windows 
+**Dexpot** - Virtual Desktops for Windows 
 
 https://dexpot.de/
 
