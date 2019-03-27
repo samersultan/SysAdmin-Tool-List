@@ -490,7 +490,7 @@ https://www.vmware.com/products/vsphere-hypervisor.html
 &nbsp;
 &nbsp;
 
-veeam - Backup for VMware, Hyper-V, physical and cloud (free edition) 
+**veeam** - Backup for VMware, Hyper-V, physical and cloud (free edition) 
 
 https://www.veeam.com/virtual-machine-backup-solution-free.html
 
