@@ -22,7 +22,7 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 ----
 
-<details><summary>Prior Changes</summary>
+<details><summary>Click to see older changes  </summary>
 <p>
 
 
