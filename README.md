@@ -4,8 +4,8 @@ List of useful tools / software / scripts / resources for system and network adm
 
 This resoruce / tool list is a work in progress, I will be updating it regularly in the next coming months (every couple of days, as time allows). I hope that you find it useful, and thanks for taking the time to check it out. If you have any suggestions, please reach out to me on twitter <a href="https://twitter.com/sultansolutions">@SultanSolutions</a>
 
-
-## Changelog
+<details><summary>## Changelog </summary>
+<p>
 
 **03 / 27 / 2019** 
 
@@ -21,11 +21,6 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 * PDQ Deploy added to Windows Administration 
 
 ----
-
-<details><summary>Click to see older changes  </summary>
-<p>
-
-
 
 **03 / 06 / 2019**
 
@@ -95,13 +90,6 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 * Added Networking Tools 
 * Cleaned up layout
-
-#### Text Here
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
 
 
 </p>
