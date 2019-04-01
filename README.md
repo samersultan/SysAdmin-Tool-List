@@ -22,6 +22,11 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 ----
 
+<details><summary>Prior Changes</summary>
+<p>
+
+
+
 **03 / 06 / 2019**
 
 * RSAT Tools Added to windows admin tools
@@ -90,4 +95,15 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 
 * Added Networking Tools 
 * Cleaned up layout
+
+#### Text Here
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+
+</p>
+</details>
 
