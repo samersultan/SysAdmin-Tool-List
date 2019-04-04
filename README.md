@@ -8,6 +8,12 @@ This resoruce / tool list is a work in progress, I will be updating it regularly
 <details> <summary>Click to Expand</summary>
 <p>
 
+**04 / 03 / 2019**
+
+* Easy RoboCopy Added to Windows Admin Tools
+
+----
+
 **03 / 27 / 2019** 
 
 * ESXI hypervisor free edition added to VMWARE
