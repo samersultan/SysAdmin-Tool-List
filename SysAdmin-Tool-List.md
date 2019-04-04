@@ -81,6 +81,12 @@ https://www.ninite.com
 &nbsp;
 &nbsp;
 
+**Easy RoboCopy** - Easy RoboCopy is a graphical user interface for RoboCopy
+
+http://www.tribblesoft.com/home-page/easy-robocopy/
+
+&nbsp;
+&nbsp;
 
 **Fat32 Format Tool** - Format Drive to Fat32
 
