@@ -10,7 +10,7 @@ https://www.sultansolutions.com
 
 ## Hardware
 
-**OCCT** - Full hardware diagnostic and monitor (CPU / Mobo / RAM)
+**OCCT** - Hardware diagnostic and monitor (CPU / Mobo / RAM)
 
 http://www.ocbase.com/index.php/download
 
