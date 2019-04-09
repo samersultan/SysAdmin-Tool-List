@@ -51,6 +51,14 @@ https://www.virustotal.com
 
 ## Networking Tools 
 
+**Glasswire Network Firewall** - Current & past network activity Detect malware, & block badly behaving apps
+
+https://www.glasswire.com/
+
+&nbsp;
+&nbsp;
+
+
 **Angry IPScanner** - Scans Addresses and Ports
 
 https://angryip.org/
