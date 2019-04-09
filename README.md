@@ -10,6 +10,7 @@ This resoruce + tool list is a work in progress, I will be updating it regularly
 
 **04 / 09 / 2019**
 
+* Glasswire Added to Networking Tools 
 * Meld added to Windows Tools
 
 ----
