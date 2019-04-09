@@ -8,6 +8,12 @@ This resoruce + tool list is a work in progress, I will be updating it regularly
 <details> <summary>Click to Expand</summary>
 <p>
 
+**04 / 09 / 2019**
+
+* Meld added to Windows Tools
+
+----
+
 **04 / 03 / 2019**
 
 * Easy RoboCopy Added to Windows Admin Tools
