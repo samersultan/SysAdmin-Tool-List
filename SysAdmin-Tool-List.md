@@ -74,13 +74,6 @@ https://www.wireshark.org/
 
 ## Windows Tools
 
-**Ninite**  - Install and Update Many Programs at Once
-
-https://www.ninite.com
-
-&nbsp;
-&nbsp;
-
 **Easy RoboCopy** - Easy RoboCopy is a graphical user interface for RoboCopy
 
 http://www.tribblesoft.com/home-page/easy-robocopy/
@@ -118,6 +111,13 @@ https://winsshterm.blogspot.com/
 
 
 ## Windows Administration
+
+**Ninite**  - Install and Update Many Programs at Once
+
+https://www.ninite.com
+
+&nbsp;
+&nbsp;
 
 **Group Policy Administrative Templates Catalog** - Group Policy Templates
 
