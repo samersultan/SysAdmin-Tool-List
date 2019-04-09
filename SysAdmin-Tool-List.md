@@ -74,6 +74,14 @@ https://www.wireshark.org/
 
 ## Windows Tools
 
+**Meld** - visual diff and merge tool
+
+http://meldmerge.org/
+
+&nbsp;
+&nbsp;
+
+
 **Easy RoboCopy** - Easy RoboCopy is a graphical user interface for RoboCopy
 
 http://www.tribblesoft.com/home-page/easy-robocopy/
