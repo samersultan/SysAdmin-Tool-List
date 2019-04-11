@@ -7,10 +7,16 @@ This resoruce + tool list is a work in progress, I will be updating it regularly
 ## Changelog
 <details> <summary>Click to Expand</summary>
 <p>
+  
+**04 / 11 / 2019**
+
+* Cmder added to Windows Tools
+
+----
 
 **04 / 09 / 2019**
 
-* Glasswire Added to Networking Tools 
+* Glasswire ddded to Networking Tools 
 * Meld added to Windows Tools
 
 ----
