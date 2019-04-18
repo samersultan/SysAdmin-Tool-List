@@ -337,6 +337,14 @@ https://github.com/bwya77/O365-Admin-Center
 
 ## Web Tools 
 
+**ZeroSSL** - Free SSL Certificate
+
+https://zerossl.com/
+
+&nbsp;
+&nbsp;
+
+
 **Pinboard** - Bookmark management tool
 
 https://pinboard.in/
