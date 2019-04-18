@@ -7,7 +7,13 @@ This resoruce + tool list is a work in progress, I will be updating it regularly
 ## Changelog
 <details> <summary>Click to Expand</summary>
 <p>
-  
+ 
+**04 / 19 / 2019** 
+
+* Added a nifty Win 10 GPO tool to admin tools
+
+----
+ 
 **04 / 11 / 2019**
 
 * Cmder added to Windows Tools
