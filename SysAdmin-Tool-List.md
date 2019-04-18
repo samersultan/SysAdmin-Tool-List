@@ -149,6 +149,13 @@ https://getadmx.com/
 &nbsp;
 &nbsp;
 
+**Windows 10 GPO Settings** - Customizing the Windows 10 user experience with Group Policy
+
+https://decentsecurity.com/customizing-windows-10-user-experience
+
+&nbsp;
+&nbsp;
+
 **Policy Analyzer** - Group Policy Tool 
 
 https://blogs.technet.microsoft.com/secguide/2016/01/22/new-tool-policy-analyzer/
