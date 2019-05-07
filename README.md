@@ -11,6 +11,7 @@ This resoruce + tool list is a work in progress, I will be updating it regularly
  **05 / 07 / 2019**
  
  * Active Directory PowerShell Library Added to PowerShell scripts 
+ * New Windows 10 Terminal added to Windows tools  
  
  ----
  
