@@ -421,7 +421,7 @@ https://poshgui.com/
 
 **Dicio** - Runs powershell scripts targeting multiple hosts at once.
 
-- https://github.com/Wrexthor/Dicio
+https://github.com/Wrexthor/Dicio
 
 &nbsp;
 &nbsp;
