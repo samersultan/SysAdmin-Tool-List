@@ -467,7 +467,7 @@ https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1
 &nbsp;
 &nbsp;
 
-**Active Directory Managment** - Library of PowerShell scripts for managing active directory
+**Active Directory Management** - Library of PowerShell scripts for managing active directory
 
 https://github.com/AndrewEllis93/PowerShell-Scripts
 
