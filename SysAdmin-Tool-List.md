@@ -118,6 +118,13 @@ https://dexpot.de/
 &nbsp;
 &nbsp;
 
+**New Windows 10 Terminal** - Updated Windows 10 Terminal (requires build 1903) 
+
+https://github.com/microsoft/terminal
+
+&nbsp;
+&nbsp;
+
 **WinSSHTerm** - A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv
 
 https://winsshterm.blogspot.com/
