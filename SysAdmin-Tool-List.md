@@ -10,7 +10,7 @@ https://www.sultansolutions.com
 
 ## Hardware
 
-**OCCT** - Hardware diagnostic and monitor (CPU / Mobo / RAM)
+**OCCT** - Hardware diagnostic and monitor (CPU / Motherboard / RAM)
 
 http://www.ocbase.com/index.php/download
 
@@ -25,7 +25,7 @@ https://www.alcpu.com/CoreTemp/
 &nbsp;
 
 
-**Guru3D Display Driver Uninstaller** - Clean removal of display drivers 
+**Guru3D Display Driver Uninstaller** - Clean removal of display drivers
 
 https://www.guru3d.com/files-details/display-driver-uninstaller-download,3.html
 
@@ -35,7 +35,7 @@ https://www.guru3d.com/files-details/display-driver-uninstaller-download,3.html
 
 ## Malware Removal
 
-**Tron Script** - Script to remove malware / optimize windows systems 
+**Tron Script** - Script to remove malware / optimize windows systems
 
 https://www.reddit.com/r/TronScript/
 
@@ -49,7 +49,7 @@ https://www.virustotal.com
 &nbsp;
 &nbsp;
 
-## Networking Tools 
+## Networking Tools
 
 **Glasswire Network Firewall** - Current & past network activity Detect malware, & block badly behaving apps
 
@@ -111,14 +111,14 @@ https://rufus.ie/
 &nbsp;
 &nbsp;
 
-**Dexpot** - Virtual Desktops for Windows 
+**Dexpot** - Virtual Desktops for Windows
 
 https://dexpot.de/
 
 &nbsp;
 &nbsp;
 
-**New Windows 10 Terminal** - Updated Windows 10 Terminal (requires build 1903) 
+**New Windows 10 Terminal** - Updated Windows 10 Terminal (requires build 1903)
 
 https://github.com/microsoft/terminal
 
@@ -163,7 +163,7 @@ https://decentsecurity.com/customizing-windows-10-user-experience
 &nbsp;
 &nbsp;
 
-**Policy Analyzer** - Group Policy Tool 
+**Policy Analyzer** - Group Policy Tool
 
 https://blogs.technet.microsoft.com/secguide/2016/01/22/new-tool-policy-analyzer/
 
@@ -184,7 +184,7 @@ https://www.lansweeper.com/
 &nbsp;
 &nbsp;
 
-**OneDrive Mapper Tool** - OneDrive mapped to drive letters 
+**OneDrive Mapper Tool** - OneDrive mapped to drive letters
 
 https://www.lieben.nu/liebensraum/onedrivemapper/
 
@@ -205,7 +205,7 @@ http://nirsoft.net/
 &nbsp;
 &nbsp;
 
-**RSAT** - Remote Server Administration Tools for Windows 10 
+**RSAT** - Remote Server Administration Tools for Windows 10
 
 https://www.microsoft.com/en-us/download/details.aspx?id=45520
 
@@ -333,7 +333,7 @@ https://gcits.com/knowledge-base/
 &nbsp;
 &nbsp;
 
-**o365 Admin Center Tool** - Simple desktop UI for o365 managment 
+**o365 Admin Center Tool** - Simple desktop UI for o365 managment
 
 https://github.com/bwya77/O365-Admin-Center
 
@@ -342,7 +342,7 @@ https://github.com/bwya77/O365-Admin-Center
 
 
 
-## Web Tools 
+## Web Tools
 
 **ZeroSSL** - Free SSL Certificate
 
@@ -412,7 +412,7 @@ https://ss64.com/
 &nbsp;
 &nbsp;
 
-**POSH GUI** - (Powershell GUI Designer) 
+**POSH GUI** - (Powershell GUI Designer)
 
 https://poshgui.com/
 
@@ -509,7 +509,7 @@ https://github.com/Scine/Office365
 &nbsp;
 &nbsp;
 
-## Self Hosted 
+## Self Hosted
 
 **BookStack** - Self hosted Wiki / Document Management  
 
@@ -518,23 +518,23 @@ https://www.bookstackapp.com/
 &nbsp;
 &nbsp;
 
-**Docker** - Run applications as virtual containers 
+**Docker** - Run applications as virtual containers
 
 https://www.docker.com/
 
 &nbsp;
 &nbsp;
 
-**AMPPS** - Package Library of Self Hosted Apps 
+**AMPPS** - Package Library of Self Hosted Apps
 
 https://www.ampps.com
 
 &nbsp;
 &nbsp;
 
-## VMWARE 
+## VMWARE
 
-**vCenter Converter** - Convert Physical Machine to Virtual 
+**vCenter Converter** - Convert Physical Machine to Virtual
 
 https://www.vmware.com/products/converter.html
 
@@ -548,7 +548,7 @@ https://www.vmware.com/products/vsphere-hypervisor.html
 &nbsp;
 &nbsp;
 
-**veeam** - Backup for VMware, Hyper-V, physical and cloud (free edition) 
+**veeam** - Backup for VMware, Hyper-V, physical and cloud (free edition)
 
 https://www.veeam.com/virtual-machine-backup-solution-free.html
 
