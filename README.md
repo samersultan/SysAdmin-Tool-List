@@ -8,6 +8,12 @@ This resoruce + tool list is a work in progress, I will be updating it regularly
 <details> <summary>Expand to View</summary>
 <p>
  
+ **05 / 07 / 2019**
+ 
+ * Active Directory PowerShell Library Added to PowerShell scripts 
+ 
+ ----
+ 
 **04 / 19 / 2019** 
 
 * Added a nifty Win 10 GPO tool to admin tools
