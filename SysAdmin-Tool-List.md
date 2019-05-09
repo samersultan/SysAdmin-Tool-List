@@ -226,6 +226,13 @@ https://www.pdq.com/pdq-inventory/
 &nbsp;
 &nbsp;
 
+**O&O ShutUp10** - Tools to debloat Windows 10 
+
+https://www.oo-software.com/en/shutup10
+
+&nbsp;
+&nbsp;
+
 ## Online File Share / Storage
 
 **NoFile.io** - Secure file share (up to 10gig free)
