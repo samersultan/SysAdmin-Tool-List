@@ -18,7 +18,7 @@ This resource / list is a work in progress, I will be updating it regularly in t
 **04 / 19 / 2019**
 
 * Added a nifty Win 10 GPO tool to admin tools
-* ZeroSSL added to Web Tools
+* ZeroSSL added to Web tools
 
 ----
  
