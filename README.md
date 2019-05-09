@@ -12,6 +12,7 @@ This resource / list is a work in progress, I will be updating it regularly in t
  
  * Active Directory PowerShell Library Added to PowerShell scripts
  * New Windows 10 Terminal added to Windows tools  
+ * O&O ShutUp10 added to Windows Tools 
  
  ----
  
