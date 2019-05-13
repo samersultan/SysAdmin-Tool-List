@@ -242,6 +242,12 @@ https://github.com/trimstray/nginx-admins-handboo
 &nbsp;
 &nbsp;
 
+**Nginx Configratuon Tool** - Nginx Web Configurator
+
+https://nginxconfig.io/
+
+&nbsp;
+&nbsp;
 
 ## Online File Share / Storage
 
