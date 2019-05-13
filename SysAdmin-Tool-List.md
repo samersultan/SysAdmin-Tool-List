@@ -256,6 +256,16 @@ https://owncloud.org/
 &nbsp;
 &nbsp;
 
+## Web Servewr Administration
+
+**Nginx Admin's Handbook** - NGINX administration basics, tips & tricks, caveats, and gotchas
+
+https://github.com/trimstray/nginx-admins-handboo
+
+&nbsp;
+&nbsp;
+
+
 ## ISO Boot Disks / PE Disks
 
 **YUMI Multi Boot** - Linux Multi Boot Disc
