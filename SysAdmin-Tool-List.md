@@ -233,6 +233,16 @@ https://www.oo-software.com/en/shutup10
 &nbsp;
 &nbsp;
 
+## Web Server Administration
+
+**Nginx Admin's Handbook** - NGINX administration basics, tips & tricks, caveats, and gotchas
+
+https://github.com/trimstray/nginx-admins-handboo
+
+&nbsp;
+&nbsp;
+
+
 ## Online File Share / Storage
 
 **NoFile.io** - Secure file share (up to 10gig free)
@@ -255,16 +265,6 @@ https://owncloud.org/
 
 &nbsp;
 &nbsp;
-
-## Web Servewr Administration
-
-**Nginx Admin's Handbook** - NGINX administration basics, tips & tricks, caveats, and gotchas
-
-https://github.com/trimstray/nginx-admins-handboo
-
-&nbsp;
-&nbsp;
-
 
 ## ISO Boot Disks / PE Disks
 
