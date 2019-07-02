@@ -149,6 +149,13 @@ https://www.ninite.com
 &nbsp;
 &nbsp;
 
+**GPOTools** - Restore and backup Group Policy
+
+https://github.com/FriedrichWeinmann/GPOTools
+
+&nbsp;
+&nbsp;
+
 **Group Policy Administrative Templates Catalog** - Group Policy Templates
 
 https://getadmx.com/
