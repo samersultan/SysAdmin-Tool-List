@@ -448,6 +448,14 @@ https://www.howsmyssl.com/
 &nbsp;
 &nbsp;
 
+**Attack Surface Analyzer** - Evaluate risk presented by when third-party software is installed 
+
+https://github.com/microsoft/AttackSurfaceAnalyzer/blob/master/README.md
+
+&nbsp;
+&nbsp;
+
+
 ## Scripting Resources (Powershell / Linux)
 
 **SS64** - Command line reference – Database and OS scripting
