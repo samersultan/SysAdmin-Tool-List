@@ -58,6 +58,12 @@ https://www.glasswire.com/
 &nbsp;
 &nbsp;
 
+**Zenmap GUI** - GUI for NMAP, scans ports of IP's (useful for pen tests)
+
+https://nmap.org/zenmap/
+
+&nbsp;
+&nbsp;
 
 **Advanced IP Scanner** - Scans Addresses and Ports
 
