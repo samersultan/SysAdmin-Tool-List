@@ -59,9 +59,9 @@ https://www.glasswire.com/
 &nbsp;
 
 
-**Angry IPScanner** - Scans Addresses and Ports
+**Advanced IP Scanner** - Scans Addresses and Ports
 
-https://angryip.org/
+https://www.advanced-ip-scanner.com/
 
 &nbsp;
 &nbsp;
