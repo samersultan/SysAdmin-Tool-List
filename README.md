@@ -145,6 +145,13 @@ https://cmder.net/
 &nbsp;
 &nbsp;
 
+**Fancy Zones** - Arrange and snap windows into efficient layouts 
+
+https://github.com/microsoft/PowerToys/blob/master/src/modules/fancyzones/README.md
+
+&nbsp;
+&nbsp;
+
 
 ## Windows Administration
 
