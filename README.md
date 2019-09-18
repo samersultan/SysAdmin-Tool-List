@@ -332,12 +332,23 @@ https://mxtoolbox.com/
 &nbsp;
 &nbsp;
 
+
+
 **DNSlytics** - DNS Search and Analytics Tool
 
 https://dnslytics.com/
 
 &nbsp;
 &nbsp;
+
+
+**Office365 Basic Hygiene Checkup** - Step by step guide to setting up o365 mail 
+
+https://github.com/duocircle/Office365-Setup-DKIM-DMARC-SPF
+
+&nbsp;
+&nbsp;
+
 
 **Central OPS** - Domain + E-mail Dossier / WHO IS / NS Lookup
 
@@ -373,7 +384,6 @@ https://dmarc.org/resources/deployment-tools/
 
 &nbsp;
 &nbsp;
-
 
 ## o365 Tools and Resources
 
