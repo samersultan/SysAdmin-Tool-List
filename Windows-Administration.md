@@ -112,3 +112,10 @@ https://www.forensit.com/domain-migration.html
 
 &nbsp;
 &nbsp;
+
+**ADRecon** - Gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment. 
+
+https://github.com/sense-of-security/ADRecon
+
+&nbsp;
+&nbsp;
