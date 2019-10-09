@@ -119,3 +119,10 @@ https://github.com/sense-of-security/ADRecon
 
 &nbsp;
 &nbsp;
+
+**LAPS** Windows Local Admin Password Management
+
+https://www.microsoft.com/en-us/download/details.aspx?id=46899
+
+&nbsp;
+&nbsp;
