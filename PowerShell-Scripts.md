@@ -55,3 +55,11 @@ https://github.com/Scine/Office365
 
 &nbsp;
 &nbsp;
+
+**All-in-One” PowerShell script** - Connect to all Office 365 Services PowerShell  (Supports MFA)
+
+https://o365reports.com/2019/10/05/connect-all-office-365-services-powershell/
+
+&nbsp;
+&nbsp;
+
