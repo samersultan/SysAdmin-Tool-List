@@ -1,4 +1,4 @@
-## Pen Testing
+## Penetration Testing
 
 **Kali Linux** - Penetration Testing Linux Distro
 
