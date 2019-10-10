@@ -28,12 +28,6 @@ https://howsecureismypassword.net/
 &nbsp;
 &nbsp;
 
-**Kali Linux** - Penetration Testing Linux Distro
-
-https://www.kali.org/
-
-&nbsp;
-&nbsp;
 
 **Hows MY SSL?** - Check how secure your TLS client is
 
