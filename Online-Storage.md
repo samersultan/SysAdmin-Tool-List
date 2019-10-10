@@ -1,4 +1,4 @@
-## Online File Share / Storage
+## Online File Share / Cloud Storage
 
 **NoFile.io** - Secure file share (up to 10gig free)
 
