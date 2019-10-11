@@ -78,3 +78,10 @@ https://dmarc.org/resources/deployment-tools/
 
 &nbsp;
 &nbsp;
+
+**Definitive Guide for DMARC / DKIM / SPF** - How to Implement DMARC/DKIM/SPF to Stop Email Spoofing/Phishing: The Definitive Guide
+
+https://dmarcly.com/blog/how-to-implement-dmarc-dkim-spf-to-stop-email-spoofing-phishing-the-definitive-guide
+
+&nbsp;
+&nbsp;
