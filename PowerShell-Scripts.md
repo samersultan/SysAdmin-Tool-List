@@ -63,3 +63,11 @@ https://o365reports.com/2019/10/05/connect-all-office-365-services-powershell/
 &nbsp;
 &nbsp;
 
+**Various standalone scripts** - Collection of useful scripts for day to day sys admin tasks
+
+https://github.com/bmrf/standalone_scripts
+
+&nbsp;
+&nbsp;
+
+
