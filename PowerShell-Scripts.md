@@ -70,4 +70,11 @@ https://github.com/bmrf/standalone_scripts
 &nbsp;
 &nbsp;
 
+**Windows One Liners** - One liners useful for Windows admins
+
+https://github.com/bmrf/standalone_scripts/blob/master/Windows%20one-liners.bat
+
+&nbsp;
+&nbsp;
+
 
