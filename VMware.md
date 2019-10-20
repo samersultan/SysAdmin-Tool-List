@@ -1,14 +1,14 @@
 
 ## VMWARE
 
-**vCenter Converter** - Easily Convert Physical Machine to Virtual
+**vCenter Converter** - Easily convert physical machine to virtual
 
 https://www.vmware.com/products/converter.html
 
 &nbsp;
 &nbsp;
 
-**vSphere Hypervisor** -  free bare-metal hypervisor that virtualizes servers
+**vSphere Hypervisor** -  Free bare-metal hypervisor that virtualizes servers
 
 https://www.vmware.com/products/vsphere-hypervisor.html
 
