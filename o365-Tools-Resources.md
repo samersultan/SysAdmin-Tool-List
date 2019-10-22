@@ -1,5 +1,12 @@
 ## o365 Tools and Resources  
 
+Samer Sultan
+https://www.sultansolutions.com
+
+@SultanSolutions
+
+---
+
 
 **GCITS o365 Knowledgeable** - Resource for o365 User Guides / Trouble Shooting
 
