@@ -1,5 +1,13 @@
 ## Scripting Resources (Powershell / Linux)
 
+Samer Sultan
+https://www.sultansolutions.com
+
+@SultanSolutions
+
+---
+
+
 **SS64** - Command line reference – Database and OS scripting
 
 https://ss64.com/
