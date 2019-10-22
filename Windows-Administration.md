@@ -1,5 +1,12 @@
 ## Windows Administration
 
+Samer Sultan
+https://www.sultansolutions.com
+
+@SultanSolutions
+
+---
+
 **Ninite**  - Install and Update Many Programs at Once
 
 https://www.ninite.com
