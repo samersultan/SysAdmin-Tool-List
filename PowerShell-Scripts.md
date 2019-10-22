@@ -1,5 +1,13 @@
 ## PowerShell Scripts
 
+Samer Sultan
+https://www.sultansolutions.com
+
+@SultanSolutions
+
+---
+
+
 **Windows 10 Decrapifier** - Clean up W10 PowerShell Script
 
 https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1809
