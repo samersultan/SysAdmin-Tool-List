@@ -1,5 +1,12 @@
 ## Windows Tools
 
+Samer Sultan
+https://www.sultansolutions.com
+
+@SultanSolutions
+
+---
+
 **Meld** - visual diff and merge tool
 
 http://meldmerge.org/
