@@ -1,12 +1,11 @@
+## Self Hosted
+
 Samer Sultan
 https://www.sultansolutions.com
 
 @SultanSolutions
 
 ---
-
-
-## Self Hosted
 
 **BookStack** - Self hosted Wiki / Document Management  
 
