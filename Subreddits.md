@@ -1,4 +1,3 @@
-
 ## Subreddits
 
 **SysAdmin Subreddit** - Most active subreddit for system / network admins
