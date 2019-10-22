@@ -1,5 +1,12 @@
 ## Hardware
 
+Samer Sultan
+https://www.sultansolutions.com
+
+@SultanSolutions
+
+---
+
 **OCCT** - Hardware diagnostic and monitor (CPU / Motherboard / RAM)
 
 http://www.ocbase.com/index.php/download
