@@ -85,4 +85,11 @@ https://github.com/bmrf/standalone_scripts/blob/master/Windows%20one-liners.bat
 &nbsp;
 &nbsp;
 
+**Managing Private Channels in Microsoft Teams** - Powershell Script to restrict the ability to create private channels in teams 
+
+https://blog.admindroid.com/managing-private-channels-in-microsoft-teams/
+
+&nbsp;
+&nbsp;
+
 
