@@ -52,3 +52,8 @@ https://github.com/microsoft/AttackSurfaceAnalyzer/blob/master/README.md
 &nbsp;
 
 **Glasswire** - Instantly see your current & past network activity. Detect malware, & block badly behaving apps.
+
+https://www.glasswire.com/
+
+&nbsp;
+&nbsp;
