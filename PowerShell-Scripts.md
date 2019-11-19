@@ -92,4 +92,9 @@ https://blog.admindroid.com/managing-private-channels-in-microsoft-teams/
 &nbsp;
 &nbsp;
 
-
+ **Block Self Service Purchase o365** - Block Self-Service Purchase for Power Platform Products Using PowerShell
+ 
+ https://blog.admindroid.com/block-self-service-purchase-for-power-platform-products-using-powershell/
+ 
+&nbsp;
+&nbsp;
