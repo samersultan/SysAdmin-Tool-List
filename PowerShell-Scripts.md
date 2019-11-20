@@ -50,12 +50,6 @@ https://eightwone.com/2015/08/31/connecting-to-office-365exchange/
 &nbsp;
 &nbsp;
 
-**o365 PowerShell Connect w/ MFA** - Connect to o365 / Azure AD with MFA enabled
-
-https://github.com/samersultan/o365-powershell-connect-MFA/blob/master/o365-connect.md
-
-&nbsp;
-&nbsp;
 
 **o365 PowerShell Script Library** - o365 PowerShell script collection
 
