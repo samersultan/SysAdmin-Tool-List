@@ -7,7 +7,7 @@ https://www.sultansolutions.com
 
 ---
 
-**UrBackup** - Open Source client/server backup system
+**UrBackup** - Open Source client / server backup system
 
 https://www.urbackup.org/
 
