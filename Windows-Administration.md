@@ -133,3 +133,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=46899
 
 &nbsp;
 &nbsp;
+
+**Windows ISO's** - Windows operating systems, Office applications, language packs, and virtual machines directly from Microsoft servers
+
+https://tb.rg-adguard.net/public.php
