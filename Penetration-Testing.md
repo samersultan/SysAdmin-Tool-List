@@ -22,7 +22,7 @@ https://nmap.org/
 &nbsp;
 &nbsp;
 
-**Outgoing port tester** - Listens on all TCP ports, allowing you to test any outbound TCP port
+**Outgoing Port Tester** - Listens on all TCP ports, allowing you to test any outbound TCP port
 
 http://portquiz.net/
 
