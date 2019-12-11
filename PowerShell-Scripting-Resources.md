@@ -46,38 +46,3 @@ Enable-ScriptBrowser
 &nbsp;
 
 
-**PowerShell  ISEScriptAnalyzerAddOn** - PowerShell Script Analyzer
-
-https://www.powershellgallery.com/packages/ISEScriptAnalyzerAddOn/1.0
-
-```powershell
-Install-Module -Name ISEScriptAnalyzerAddOn
-
-
-Enable-ScriptAnalyzer
-
-```
-
-&nbsp;
-&nbsp;
-
-**Disabling IMAP and POP for all future mailboxes** 
-
-```powershell
-
-Get-CASMailboxPlan -Filter {ImapEnabled -eq "true" -or PopEnabled -eq "true" } | set-CASMailboxPlan -ImapEnabled $false -PopEnabled $false
-
-```
-
-&nbsp;
-&nbsp;
-
-**Disabling IMAP and POP for all existing mailboxes**
-
-```powershell
-
-Get-CASMailbox -Filter {ImapEnabled -eq "true" -or PopEnabled -eq "true" } | Select-Object @{n = "Identity"; e = {$_.primarysmtpaddress}} | Set-CASMailbox -ImapEnabled $false -PopEnabled $false
-
-```
-&nbsp;
-&nbsp;
