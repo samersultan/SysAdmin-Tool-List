@@ -60,3 +60,15 @@ Enable-ScriptAnalyzer
 
 &nbsp;
 &nbsp;
+
+**Disabling IMAP and POP for all future mailboxes** 
+
+```powershell
+
+Get-CASMailboxPlan -Filter {ImapEnabled -eq "true" -or PopEnabled -eq "true" } | set-CASMailboxPlan -ImapEnabled $false -PopEnabled $false
+
+```
+
+&nbsp;
+&nbsp;
+
