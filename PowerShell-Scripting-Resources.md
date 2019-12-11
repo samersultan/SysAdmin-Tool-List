@@ -72,3 +72,12 @@ Get-CASMailboxPlan -Filter {ImapEnabled -eq "true" -or PopEnabled -eq "true" } |
 &nbsp;
 &nbsp;
 
+**Disabling IMAP and POP for all existing mailboxes**
+
+```powershell
+
+Get-CASMailbox -Filter {ImapEnabled -eq "true" -or PopEnabled -eq "true" } | Select-Object @{n = "Identity"; e = {$_.primarysmtpaddress}} | Set-CASMailbox -ImapEnabled $false -PopEnabled $false
+
+```
+&nbsp;
+&nbsp;
