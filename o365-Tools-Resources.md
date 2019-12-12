@@ -8,6 +8,14 @@ https://www.sultansolutions.com
 ---
 
 
+**o365 / Azure Service Health** - Alerts for o365  / Azure services 
+
+https://status.azure.com/en-us/status
+
+&nbsp;
+&nbsp;
+
+
 **GCITS o365 Knowledgeable** - Resource for o365 User Guides / Trouble Shooting
 
 https://gcits.com/knowledge-base/
