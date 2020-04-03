@@ -1,4 +1,4 @@
-## Self Hosted
+## Project Management.
 
 Samer Sultan
 https://www.sultansolutions.com
@@ -7,16 +7,15 @@ https://www.sultansolutions.com
 
 ---
 
-**BookStack** - Self hosted Wiki / Document Management  
+**Trello** - Modular board based project management tool
 
-https://www.bookstackapp.com/
+https://trello.com/
 
 &nbsp;
 &nbsp;
 
-**Docker** - Run applications as virtual containers
-
-https://www.docker.com/
+**Trello Card Optimizer** - Chrome extension ads useful functionality to trello
+https://trellocards.com/TCO/
 
 &nbsp;
 &nbsp;
