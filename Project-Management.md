@@ -15,6 +15,7 @@ https://trello.com/
 &nbsp;
 
 **Trello Card Optimizer** - Chrome extension ads useful functionality to trello
+
 https://trellocards.com/TCO/
 
 &nbsp;
