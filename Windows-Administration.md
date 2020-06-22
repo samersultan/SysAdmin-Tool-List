@@ -137,3 +137,13 @@ https://www.microsoft.com/en-us/download/details.aspx?id=46899
 **Windows ISO's** - Windows operating systems, Office applications, language packs, and virtual machines directly from Microsoft servers
 
 https://tb.rg-adguard.net/public.php
+
+&nbsp;
+&nbsp;
+
+**Delprof2** - Easily remove unused accounts from Windows System
+
+https://helgeklein.com/free-tools/delprof2-user-profile-deletion-tool/
+
+&nbsp;
+&nbsp;
