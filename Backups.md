@@ -33,3 +33,13 @@ https://www.veeam.com/
 &nbsp;
 
 ---
+
+**Acronis True Image** - Good backup solution 
+
+https://www.acronis.com/en-us/products/true-image/features/
+
+&nbsp;
+&nbsp;
+
+
+---
