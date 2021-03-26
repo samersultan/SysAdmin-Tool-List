@@ -7,6 +7,14 @@ https://www.sultansolutions.com
 
 ---
 
+**SuperDelete** - Force Delete Folders / Files when other methods don't work
+
+https://github.com/marceln/SuperDelete/releases/tag/1.2.0
+
+&nbsp;
+&nbsp;
+
+
 **Meld** - visual diff and merge tool
 
 http://meldmerge.org/
