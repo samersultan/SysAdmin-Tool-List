@@ -30,6 +30,13 @@ https://github.com/Cinchoo/ChoEazyCopy
 &nbsp;
 &nbsp;
 
+**FreeFileSync** - Synchronize Files and Folders 
+
+https://freefilesync.org/download.php
+
+&nbsp;
+&nbsp;
+
 **Fat32 Format Tool** - Format Drive to Fat32
 
 http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
