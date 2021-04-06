@@ -23,9 +23,9 @@ http://meldmerge.org/
 &nbsp;
 
 
-**Easy RoboCopy** - Easy RoboCopy is a graphical user interface for RoboCopy
+**ChoEazyCopy** - CChoEazyCopy is a graphical user interface for RoboCopy
 
-http://www.tribblesoft.com/home-page/easy-robocopy/
+https://github.com/Cinchoo/ChoEazyCopy
 
 &nbsp;
 &nbsp;
