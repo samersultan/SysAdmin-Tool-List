@@ -147,3 +147,12 @@ https://helgeklein.com/free-tools/delprof2-user-profile-deletion-tool/
 
 &nbsp;
 &nbsp;
+
+**SS64** - Command Line Reference 
+
+https://ss64.com/nt/
+
+&nbsp;
+&nbsp;
+
+
