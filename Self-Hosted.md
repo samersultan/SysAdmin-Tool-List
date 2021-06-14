@@ -28,10 +28,5 @@ https://www.ampps.com
 &nbsp;
 &nbsp;
 
-**List of Useful Software** - List of useful PC and Gaming software (good collection of self hosted apps)
 
-http://pcprograms.surge.sh/
-
-&nbsp;
-&nbsp;
 
