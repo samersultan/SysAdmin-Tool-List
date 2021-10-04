@@ -18,7 +18,7 @@ https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1
 
 **Chris Titus Windows 10 Debloat Script** - Clean up Windows 10 PowerShell Script
 
-https://christitus.com/debloat-windows-10/
+https://www.christitus.com/debloat-windows-10-2020
 
 &nbsp;
 &nbsp;
