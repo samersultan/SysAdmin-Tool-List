@@ -25,6 +25,12 @@ https://www.christitus.com/debloat-windows-10-2020
 &nbsp;
 &nbsp;
 
+**Sophia Script for Windows** - The largest PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and automating the routine tasks
+
+https://github.com/farag2/Sophia-Script-for-Windows
+
+&nbsp;
+&nbsp;
 
 **Active Directory Management** - Library of PowerShell scripts for managing active directory
 
