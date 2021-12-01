@@ -7,10 +7,14 @@ https://www.sultansolutions.com
 
 ---
 
-```
-regsvr32 /n /i:user C:\Users*******\AppData\Local\Microsoft\TeamsMeetingAddin\1.0.18239.1\x64\Microsoft.Teams.AddinLoader.DLL
-```
 
+
+**Learn X in Y minutes, Where X=powershell** - Good outline of PowerShell Language 
+
+https://learnxinyminutes.com/docs/powershell/
+
+&nbsp;
+&nbsp;
 
 **SS64** - Command line reference – Database and OS scripting
 
