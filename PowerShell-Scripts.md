@@ -25,6 +25,13 @@ https://www.christitus.com/debloat-windows-10-2020
 &nbsp;
 &nbsp;
 
+**Mega Collection of PowerShell Scripts** - Good collection of scripts, well organized 
+
+https://github.com/fleschutz/PowerShell?web=1&wdLOR=c09D8CA96-EED9-4C4A-AF41-ACDC638FDB8E
+
+&nbsp;
+&nbsp;
+
 **Awesome Windows Privacy** - Debload and privacy scripts for Windows 10 + 11 
 
 https://github.com/TemporalAgent7/awesome-windows-privacy
