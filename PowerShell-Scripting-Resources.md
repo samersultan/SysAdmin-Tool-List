@@ -7,9 +7,9 @@ https://www.sultansolutions.com
 
 ---
 
-`
+```
 regsvr32 /n /i:user C:\Users*******\AppData\Local\Microsoft\TeamsMeetingAddin\1.0.18239.1\x64\Microsoft.Teams.AddinLoader.DLL
-`
+```
 
 
 **SS64** - Command line reference – Database and OS scripting
