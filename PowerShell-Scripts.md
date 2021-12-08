@@ -60,7 +60,7 @@ https://github.com/AndrewEllis93/PowerShell-Scripts
 &nbsp;
 &nbsp;
 
-**PowerShell Commands for Windows Adminis** - Useful commands for Windows Administrators
+**PowerShell Commands for Windows Admins** - Useful commands for Windows Administrators
 
 https://www.robvanderwoude.com/ntadmincommands.php
 
