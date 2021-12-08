@@ -39,6 +39,13 @@ https://github.com/TemporalAgent7/awesome-windows-privacy
 &nbsp;
 &nbsp;
 
+**Intune Powershell Scripts** Collection of powershell scripts for Intune
+
+https://github.com/microsoftgraph/powershell-intune-samples
+
+&nbsp;
+&nbsp;
+
 **Sophia Script for Windows** - The largest PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and automating the routine tasks
 
 https://github.com/farag2/Sophia-Script-for-Windows
