@@ -20,7 +20,7 @@ https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1
 
 https://www.christitus.com/debloat-windows-10-2020
 
-    iwr -useb https://git.io/JJ8R4 | iex
+    iwr -useb https://christitus.com/win | iex
     
 &nbsp;
 &nbsp;
