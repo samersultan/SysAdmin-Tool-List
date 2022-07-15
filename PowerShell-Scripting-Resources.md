@@ -1,4 +1,4 @@
-## Scripting Resources (Powershell / Linux)
+## Scripting Resources
 
 Samer Sultan
 https://www.sultansolutions.com
