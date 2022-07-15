@@ -25,6 +25,13 @@ https://www.christitus.com/debloat-windows-10-2020
 &nbsp;
 &nbsp;
 
+**Run PowerShell as Local Admin**
+
+https://github.com/samersultan/Powershell-as-local-admin
+
+&nbsp;
+&nbsp;
+
 **Mega Collection of PowerShell Scripts** - Good collection of scripts, well organized 
 
 https://github.com/fleschutz/PowerShell?web=1&wdLOR=c09D8CA96-EED9-4C4A-AF41-ACDC638FDB8E
