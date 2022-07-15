@@ -1,4 +1,4 @@
-## Project Management.
+## Project Management
 
 Samer Sultan
 https://www.sultansolutions.com
