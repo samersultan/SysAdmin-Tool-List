@@ -8,7 +8,7 @@ https://www.sultansolutions.com
 ---
 
 
-**Windows 10 Decrapifier** - Clean + Optimize Windows 10 PowerShell Script
+**Windows 10 Decrapifier** - Clean + Optimize Windows 10 / 11 PowerShell Script
 
 https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1809
 
