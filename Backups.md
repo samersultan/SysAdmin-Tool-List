@@ -7,6 +7,15 @@ https://www.sultansolutions.com
 
 ---
 
+
+**veeam** - Gold Standard for Virtual Machine Backups 
+
+https://www.veeam.com/
+
+&nbsp;
+
+--
+
 **UrBackup** - Open Source client / server backup system
 
 https://www.urbackup.org/
@@ -25,21 +34,4 @@ https://www.easeus.com/backup-software/
 
 ---
 
-**veeam** - Gold Standard for Virtual Machine Backups 
 
-https://www.veeam.com/
-
-&nbsp;
-&nbsp;
-
----
-
-**Acronis True Image** - Good backup solution 
-
-https://www.acronis.com/en-us/products/true-image/features/
-
-&nbsp;
-&nbsp;
-
-
----
