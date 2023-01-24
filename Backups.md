@@ -13,6 +13,16 @@ https://www.sultansolutions.com
 https://www.veeam.com/
 
 &nbsp;
+&nbsp;
+
+---
+
+**veeam Windows Agent** - Free Backup Solution for Standalone Windows Machines
+
+https://www.veeam.com/agent-for-windows-community-edition.html
+
+&nbsp;
+&nbsp;
 
 ---
 
