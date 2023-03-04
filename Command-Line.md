@@ -52,5 +52,11 @@ getmac /v
  assoc .txt=
  ```
  
+More exaples: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/assoc
+
+&nbsp;
+&nbsp;
+
+---
  
  
