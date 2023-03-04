@@ -14,7 +14,7 @@ List of useful / less known command line commands (Run cmd.exe as local admin).
 ---
 
 
-**Reboot To Bios** - Load System Bios on reboot 
+**Reboot To Bios** - Force Reboot System into BIOS. 
 
 ```
 shutdown.exe /r /fw /f /t 00
