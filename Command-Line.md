@@ -17,7 +17,7 @@ List of useful / less known command line commands for Windows (Run cmd.exe as lo
 **Reboot To Bios** - Force Reboot System into BIOS. 
 
 ```
-shutdown.exe /r /fw /f /t 00
+shutdown /r /fw /f /t 0
 ```
 
 &nbsp;
