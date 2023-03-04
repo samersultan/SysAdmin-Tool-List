@@ -7,7 +7,7 @@ https://www.sultansolutions.com
 
 ---
 
-List of useful / less known command line commands (Run cmd.exe as local admin).
+List of useful / less known command line commands for Windows (Run cmd.exe as local admin).
 
 <img src="https://i.imgur.com/zKVXbUP.png">
 
@@ -30,5 +30,27 @@ shutdown.exe /r /fw /f /t 00
 ```
 getmac /v
 ```
+&nbsp;
+&nbsp;
 
 ---
+
+**Show File Assoications** - Displays a list of all the current file name extension associations
+
+```
+ assoc
+ ```
+ 
+ To see file type associated .txt file
+ 
+ ```
+ assoc .txt
+ ```
+ To remove file type association with .txt
+ 
+ ```
+ assoc .txt=
+ ```
+ 
+ 
+ 
