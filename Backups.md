@@ -26,14 +26,7 @@ https://www.veeam.com/agent-for-windows-community-edition.html
 
 ---
 
-**UrBackup** - Open Source client / server backup system
 
-https://www.urbackup.org/
-
-&nbsp;
-&nbsp;
-
----
 
 **easeus** - Simple backup / restore / transfer software 
 
