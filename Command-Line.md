@@ -59,4 +59,13 @@ More exaples: https://learn.microsoft.com/en-us/windows-server/administration/wi
 
 ---
  
+ **Force System Reboot / Shutdown** - Provides you with a list of Netwrok Adapter MAC Addresses 
+
+```
+getmac /v
+```
+&nbsp;
+&nbsp;
+
+---
  
