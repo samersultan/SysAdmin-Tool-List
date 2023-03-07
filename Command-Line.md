@@ -7,7 +7,7 @@ https://www.sultansolutions.com
 
 ---
 
-List of useful / less known command line commands for Windows (Run cmd.exe as local admin).
+List of useful / less known command line commands for Windows (Run cmd.exe as local admin). A good overview of windows command line can be found here: https://learn.microsoft.com/en-us/windows/terminal/command-line-arguments?tabs=windows
 
 <img src="https://i.imgur.com/zKVXbUP.png">
 
