@@ -1,4 +1,4 @@
-## Windows Command Line Commands
+## Windows Command Prompt Commands
 
 Samer Sultan
 https://www.sultansolutions.com
