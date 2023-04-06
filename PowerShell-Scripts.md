@@ -26,6 +26,11 @@ https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1
 
 https://www.techrepublic.com/article/how-to-use-powershell-to-manage-microsoft-updates-on-windows/
 
+    Get-Command -module PSWindowsUpdate -force
+    
+    
+
+
 &nbsp;
 &nbsp;
 
