@@ -30,7 +30,16 @@ https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1
 
 https://www.techrepublic.com/article/how-to-use-powershell-to-manage-microsoft-updates-on-windows/
 
+
+*Install Module*
+
     Get-Command -module PSWindowsUpdate -force
+
+*Download + Install updates on local system, reboot*
+
+    Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoReboot | Out-File "C:\($env.computername-Get-Date -f yyyy-MM-dd)-MSUpdates.log" -Force
+
+   
     
 &nbsp;
 &nbsp;
