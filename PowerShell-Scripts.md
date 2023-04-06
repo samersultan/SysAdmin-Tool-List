@@ -33,7 +33,7 @@ https://www.techrepublic.com/article/how-to-use-powershell-to-manage-microsoft-u
 
 *Install Module*
 
-    Get-Command -module PSWindowsUpdate -force
+    Install-Module PSWindowsUpdate -Force
 
 *Download + Install updates on local system, reboot*
 
