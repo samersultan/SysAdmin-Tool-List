@@ -17,7 +17,7 @@ https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1
 
 **PowerShell to manage Microsoft updates on Windows** - Overview of **PSWindowsUpdate** module
 
-https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1809
+https://www.techrepublic.com/article/how-to-use-powershell-to-manage-microsoft-updates-on-windows/
 
 &nbsp;
 &nbsp;
