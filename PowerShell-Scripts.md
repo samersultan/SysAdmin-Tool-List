@@ -6,7 +6,14 @@ https://www.sultansolutions.com
 @SultanSolutions
 
 ---
+**Chris Titus Windows 10 + 11 Debloat Script** - Clean up Windows 10 PowerShell Script
 
+https://www.christitus.com/debloat-windows-10-2020
+
+    iwr -useb https://christitus.com/win | iex
+    
+&nbsp;
+&nbsp;
 
 **Windows 10 Decrapifier** - Clean + Optimize Windows 10 / 11 PowerShell Script
 
@@ -24,14 +31,7 @@ https://www.techrepublic.com/article/how-to-use-powershell-to-manage-microsoft-u
 
 
 
-**Chris Titus Windows 10 + 11 Debloat Script** - Clean up Windows 10 PowerShell Script
 
-https://www.christitus.com/debloat-windows-10-2020
-
-    iwr -useb https://christitus.com/win | iex
-    
-&nbsp;
-&nbsp;
 
 **Run PowerShell as Local Admin**
 
