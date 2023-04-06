@@ -35,6 +35,10 @@ https://www.techrepublic.com/article/how-to-use-powershell-to-manage-microsoft-u
 
     Install-Module PSWindowsUpdate -Force
 
+*List of cmdlets for module*
+    
+    Get-Command -module PSWindowsUpdate 
+
 *Download + Install updates on local system, reboot*
 
     Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoReboot | Out-File "C:\($env.computername-Get-Date -f yyyy-MM-dd)-MSUpdates.log" -Force
