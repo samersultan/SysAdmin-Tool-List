@@ -15,6 +15,14 @@ https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1
 &nbsp;
 &nbsp;
 
+**PowerShell to manage Microsoft updates on Windows** - Overview of running **PSWindowsUpdate** module
+
+https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1809
+
+&nbsp;
+&nbsp;
+
+
 
 **Chris Titus Windows 10 + 11 Debloat Script** - Clean up Windows 10 PowerShell Script
 
