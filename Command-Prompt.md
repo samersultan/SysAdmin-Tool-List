@@ -25,6 +25,18 @@ shutdown /r /fw /f /t 0
 
 ---
 
+**Get your public IP address** - Outputs public IP
+
+```
+curl ifcfg.me
+```
+
+&nbsp;
+&nbsp;
+
+---
+
+
 **Get System MAC Address** - Provides you with a list of Netwrok Adapter MAC Addresses 
 
 ```
