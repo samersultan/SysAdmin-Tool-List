@@ -8,7 +8,7 @@ https://www.sultansolutions.com
 ---
 **Chris Titus Windows 10 + 11 Debloat Script** - Clean up Windows 10 PowerShell Script
 
-https://www.christitus.com/debloat-windows-10-2020
+https://christitus.com/windows-tool/
 
     iwr -useb https://christitus.com/win | iex
     
