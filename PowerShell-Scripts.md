@@ -22,7 +22,7 @@ https://christitus.com/windows-tool/
 https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1809
 
 
-    . .\w10.ps1 -clearstart -onedrive
+    . .\w10.ps1 -clearstart -onedrive -LeaveServices
 
 &nbsp;
 &nbsp;
