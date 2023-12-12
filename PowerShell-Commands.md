@@ -6,7 +6,7 @@ https://www.sultansolutions.com
 @SultanSolutions
 
 ---
-**Check if Hostname + Port can be resolved on local network** - 
+**Check if Hostname + Port can be resolved on local network**
 
 
 
