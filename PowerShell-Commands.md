@@ -1,4 +1,4 @@
-## PowerShell Scripts
+## PowerShell Commands
 
 Samer Sultan
 https://www.sultansolutions.com
