@@ -15,6 +15,8 @@ https://www.sultansolutions.com
 Example:
 
     Test-NetConnection google.com -Port 443
+
+<img src="https://i.imgur.com/H6yeNtI.png">
     
 &nbsp;
 &nbsp;
