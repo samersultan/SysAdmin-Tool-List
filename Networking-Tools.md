@@ -8,6 +8,25 @@ https://www.sultansolutions.com
 ---
 
 
+**PingInfoView** - Ping monitor utility 
+
+https://www.nirsoft.net/utils/multiple_ping_tool.html
+
+&nbsp;
+&nbsp;
+
+---
+
+
+**PRTG Network Monitor** - PRTG ping monitoring tool 
+
+https://www.paessler.com/ping-monitoring
+
+&nbsp;
+&nbsp;
+
+---
+
 **Glasswire Network Firewall** - Current & past network activity Detect malware, & block badly behaving apps
 
 https://www.glasswire.com/
