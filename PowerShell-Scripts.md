@@ -18,7 +18,7 @@ https://christitus.com/windows-tool/
 
 ---
 
-**Windows 10 / 11 Decrapifier** - Clean + Optimize Windows 10 / 11 PowerShell Script
+**Windows Decrapifier** - Clean + Optimize Windows 10 / 11 PowerShell Script
 
 https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-1803-1809
 
