@@ -6,7 +6,7 @@ https://www.sultansolutions.com
 @SultanSolutions
 
 ---
-**Chris Titus Windows 10 + 11 Debloat Script** - Clean up Windows 10 PowerShell Script - **Highly Recommended**
+**Chris Titus The Ultimate Windows Utility** - Clean up Windows 10 PowerShell Script - **Highly Recommended**
 
 
 https://christitus.com/windows-tool/
