@@ -9,7 +9,10 @@ https://www.sultansolutions.com
 
 **Windows 11 Local Account**  - Install and Log In to Windows 11 Without a Microsoft Account
 
-On reformat during initial setup hit **Shift + F10**, this will open a command prompt. Type the following:
+On reformat during initial setup hit **Shift + F10**, this will open a command prompt. 
+
+
+Type the following:
 
 ```
 OOBE\BYPASSNRO
@@ -19,6 +22,9 @@ More details:
 
 https://www.tomshardware.com/how-to/install-windows-11-without-microsoft-account
 
+
+&nbsp;
+&nbsp;
 
 ---
 
