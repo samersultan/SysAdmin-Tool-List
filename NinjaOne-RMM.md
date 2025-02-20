@@ -10,7 +10,7 @@ https://www.sultansolutions.com
 
 **NinjaOne Application Tracking** -  NinjaOne to establish a whitelist of authorized applications in an organization
 
-[https://www.pendrivelinux.com/yumi-multiboot-usb-creator/](https://github.com/jeffhunterninja/NinjaOne-Scripts/tree/main/Application%20Tracking)
+https://github.com/jeffhunterninja/NinjaOne-Scripts/tree/main/Application%20Tracking
 
 &nbsp;
 &nbsp;
