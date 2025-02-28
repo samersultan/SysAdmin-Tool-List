@@ -6,7 +6,7 @@ https://www.sultansolutions.com
 @SultanSolutions
 
 ---
-**Chris Titus The Ultimate Windows Utility** - Clean up Windows 10 PowerShell Script - **Highly Recommended**
+**Chris Titus The Ultimate Windows Utility** - Windows Utility PowerShell Script - **Highly Recommended**
 
 
 https://christitus.com/windows-tool/
